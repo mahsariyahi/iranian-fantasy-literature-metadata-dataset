@@ -17,6 +17,7 @@ The dataset comprises two complementary bibliographic corpora:
 
 - original fantasy works by Iranian authors; and
 - Persian translations of foreign fantasy literature published in Iran.
+
 The IFMD records bibliographic metadata relating to these publications, including information on authorship, translation, publication history, editions, and reprints where available. For translated works, metadata describing both the original work and its Persian translation are recorded where bibliographic evidence exists.
 Although the underlying MA thesis also examined a corpus of paratextual materials—including interviews, biographies, and reviews—to investigate the influence of translation on Iranian fantasy authors, those materials are not included in the released dataset. The IFMD contains bibliographic metadata only.
 
