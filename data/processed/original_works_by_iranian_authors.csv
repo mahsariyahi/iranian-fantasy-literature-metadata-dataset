@@ -1,0 +1,740 @@
+id,title_original,title_romanized,title_gloss_en,title_gloss_type,author_id,author_en,author_fa,year_persian,reprint_status,reprint_number,notes_fa,notes_en,source_appendix
+OPW_0001,طی زمان,Tey-e Zamān,Through Time,ai_literal_gloss,IA_0026,Mousa Nasri Hamedani,موسی نثری همدانی,1301,yes,multiple,,,Appendix D
+OPW_0002,م‍ج‍م‍ع‌ دی‍وان‍گ‍ان,Majma'-e Divānegān,Assembly of Madmen,ai_literal_gloss,IA_0033,Sanatizadeh Kermani,صنعتی‌زاده کرمانی,1305,yes,multiple,چاپ «مطبعه‌ی فردوس رشت» و چاپ های دیگر,Printed by Ferdows Press (Rasht) and in other editions.,Appendix D
+OPW_0003,رستم در قرن بیست و دوم,Rostam dar Gharn-e Bist-o Dovom,Rostam in the Twenty-Second Century,ai_literal_gloss,IA_0033,Sanatizadeh Kermani,صنعتی‌زاده کرمانی,1313,yes,3,در سال 1396 مجددا توسط انتشارات نفیر‏ منتشر شد و تا سال 1398 به چاپ دوم رسید.‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬,Republished by Nafir Publications in 2017 (1396) and reached its second edition by 2019 (1398).,Appendix D
+OPW_0004,درخت مروارید,Derakht-e Morvārid,The Pearl Tree,ai_literal_gloss,IA_0013,Jabbar Baghcheban,جبار باغچه‌بان,1337,no,NA,,,Appendix D
+OPW_0005,بابا برفی,Bābā Barfi,Snowy Grandpa,ai_literal_gloss,IA_0013,Jabbar Baghcheban,جبار باغچه‌بان,1349,yes,2,چاپ دوم (در سال 1395 تا 1396),Second edition (2016 to 2017).,Appendix D
+OPW_0006,دوست ناشناس,Dust-e Nāshenās,The Unknown Friend,ai_literal_gloss,IA_0018,Mirhadi Rabbani,میرهادی ربانی,NA,NA,NA,,,Appendix D
+OPW_0007,من حرفی دارم که فقط شما بچه‌ها باور می‌کنید,Man Harfi Dāram ke Faghat Shomā Bacheh-hā Bāvar Mikonid,I Have Something to Say That Only You Children Will Believe,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1348,no,NA,,,Appendix D
+OPW_0008,هفت روز هفته دارم,Haft Ruz-e Hafteh Dāram,I Have Seven Days of the Week,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1364,yes,6,چاپ ششم تا 1393,Sixth edition by 2014 (1393).,Appendix D
+OPW_0009,ه‍ف‍ت‌ ک‍م‍ان‌، ه‍ف‍ت‌ رن‍گ,"Haft Kamān, Haft Rang","Seven Arches, Seven Colors",ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1364,yes,5,,,Appendix D
+OPW_0010,ه‍زار پ‍ل‍ه‌ ب‍ه‌ دری‍ا م‍ان‍ده‌ اس‍ت‌,Hezār Pelleh be Daryā Mānde Ast,A Thousand Steps Remain to the Sea,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1364,yes,2,,,Appendix D
+OPW_0011,تو دی‍گ‍ر از ای‍ن‌ ب‍وت‍ه‌ ه‍زار گ‍ل‌ س‍رخ‌ داری‌,To Digar az In Buteh Hezār Gol-e Sorkh Dāri,You Now Have a Thousand Red Flowers from This Bush,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1368,no,NA,,,Appendix D
+OPW_0012,نوشتم باران، باران بارید,"Neveshtam Bārān, Bārān Bārid","I Wrote ""Rain"", and It Rained",ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1368,no,NA,,,Appendix D
+OPW_0013,خرگوش سفیدم همیشه سفید بود,Khargush-e Sefidam Hamisheh Sefid Bud,My White Rabbit Was Always White,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1369,yes,7,,,Appendix D
+OPW_0014,در بهار، پرنده را صدا کردیم جواب داد,"Dar Bahār, Parandeh rā Sedā Kardim Javāb Dād","In Spring, We Called the Bird and It Answered",ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1369,no,NA,,,Appendix D
+OPW_0015,روزه‍ای‌ آخ‍ر پ‍ای‍ی‍ز ب‍ود,Ruzhā-ye Ākhar-e Pāyiz Bud,It Was the Last Days of Autumn,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1369,no,NA,,,Appendix D
+OPW_0016,ح‍وض‌ ک‍وچ‍ک‌ ق‍ای‍ق‌ ک‍وچ‍ک,"Hoz-e Kuchak, Ghāyegh-e Kuchak","Small Pond, Small Boat",ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1370,no,NA,,,Appendix D
+OPW_0017,در بهار خرگوش سفیدم را یافتم,Dar Bahār Khargush-e Sefidam rā Yāftam,In Spring I Found My White Rabbit,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1370,yes,2,,,Appendix D
+OPW_0018,خ‍واب‌ ی‍ک‌ س‍ی‍ب‌ س‍ی‍ب‌ ی‍ک‌ خ‍واب,"Khāb-e Yek Sib, Sib-e Yek Khāb","The Dream of an Apple, the Apple of a Dream",ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1373,no,NA,,,Appendix D
+OPW_0019,ش‍ب‌ ی‍ل‍دا: ق‍ص‍ه‌ی‌ ب‍ل‍ن‍دت‍ری‍ن‌ ش‍ب‌ س‍ال,Shab-e Yaldā: Ghesseh-ye Bolandtarin Shab-e Sāl,Yalda Night: The Story of the Longest Night of the Year,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1376,no,NA,,,Appendix D
+OPW_0020,اسب و سیب و بهار,Asb va Sib va Bahār,"Horse, Apple, and Spring",ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1380,yes,2,,,Appendix D
+OPW_0021,در ب‍اغ‍چ‍ه‌ ع‍روس‌ و دام‍اد روی‍ی‍ده‌ ب‍ود,Dar Bāghcheh Arus va Dāmād Royideh Bud,"In the Garden, a Bride and Groom Had Grown",ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1382,no,NA,,,Appendix D
+OPW_0022,ب‍اران‌,Bārān,Rain,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1384,no,NA,,,Appendix D
+OPW_0023,همۀ آن قایق‌های کاغذی,Hameh-ye Ān Ghāyegh-hā-ye Kāghazi,All Those Paper Boats,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1384,no,NA,,,Appendix D
+OPW_0024,روزی‌ ک‍ه‌ م‍ه‌ ب‍ی‌ پ‍ای‍ان‌ ب‍ود,Ruzi ke Meh-e Bi-Pāyān Bud,The Day the Fog Was Endless,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1384,no,NA,,,Appendix D
+OPW_0025,ب‍رف‌ ه‍ف‍ت‌ گ‍ل‌ ب‍ن‍ف‍ش‍ه‌ را پ‍وش‍ان‍ده‌ ب‍ود,Barf Haft Gol-e Banafsheh rā Pushānde Bud,Snow Had Covered Seven Violet Flowers,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1384,no,NA,,,Appendix D
+OPW_0026,ن‍ش‍ان‍ی‌,Neshāni,The Address,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1384,no,NA,,,Appendix D
+OPW_0027,پ‍س‍رک‌ ت‍ن‍ه‍ا روی‌ ب‍رف,Pesarak-e Tanhā Ru-ye Barf,The Lonely Boy on the Snow,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1385,no,NA,,,Appendix D
+OPW_0028,بازهم نوشتم صبح، صبح آمد,"Bāz Ham Neveshtam Sobh, Sobh Āmad","Again I Wrote ""Morning,"" and Morning Came",ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1386,no,NA,,,Appendix D
+OPW_0029,در باغ بزرگ باران می‌بارید,Dar Bāgh-e Bozorg Bārān Mibārid,It Was Raining in the Great Garden,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1387,yes,2,چاپ دوم تا سال 1390,Second edition by 2011 (1390).,Appendix D
+OPW_0030,موج های دریا یک بطری را به ساحل آوردند,Moj-hā-ye Daryā Yek Botri rā be Sāhel Āvardand,The Sea Waves Brought a Bottle to the Shore,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1388,no,NA,,,Appendix D
+OPW_0031,دخترک، ماهی، تنهایی,"Dokhtarak, Māhi, Tanhāyi","The Little Girl, the Fish, and Loneliness",ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1389,no,NA,,,Appendix D
+OPW_0032,پسرک دریا را نگاه کرد و گفت:,Pesarak Daryā rā Negāh Kard va Goft,The Boy Looked at the Sea and Said,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1389,no,NA,,,Appendix D
+OPW_0033,عمر هفت چوب کبریت کوتاه بود فقط یک لحظه بود,"Omr-e Haft Chub Kebrit Kutāh Bud, Faghat Yek Lahzeh Bud","The Life of Seven Matchsticks Was Short, Only a Moment Long",ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1389,no,NA,,,Appendix D
+OPW_0034,سبد حصیری و فرفره‌های رنگین,Sabad-e Hasiri va Ferfereh-hā-ye Rangin,The Wicker Basket and Colorful Pinwheels,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1389,no,NA,,,Appendix D
+OPW_0035,سفر در شب,Safar dar Shab,Journey in the Night,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1389,no,NA,,,Appendix D
+OPW_0036,ک‍ب‍وت‍ر سفید کنار آینه,Kabutar-e Sefid-e Kenār-e Āyeneh,The White Dove Beside the Mirror,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1389,no,NA,,,Appendix D
+OPW_0037,مرا چشم آبی صدا می کنند,Marā Cheshm Ābi Sedā Mikonand,They Call Me Blue Eyes,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1390,no,NA,,,Appendix D
+OPW_0038,پسرک و دوازده ماه سال,Pesarak va Davāzdah Māh-e Sāl,The Boy and the Twelve Months of the Year,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1390,yes,2,چاپ دوم تا سال 1395,Second edition by 2016 (1395).,Appendix D
+OPW_0039,عروس و داماد در باران,Arus va Dāmād dar Bārān,Bride and Groom in the Rain,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1390,no,NA,,,Appendix D
+OPW_0040,از کلید آبی‌رنگ گاهی صدای دریا را می شنید,Az Kelid-e Ābi-Rang Gāhi Sedā-ye Daryā rā Mishenid,From the Blue Key He Sometimes Heard the Sound of the Sea,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1391,no,NA,,,Appendix D
+OPW_0041,پروانه روی بالش من به خواب رفته بود,Parvāneh Ru-ye Bālesh-e Man be Khāb Rafteh Bud,A Butterfly Had Fallen Asleep on My Pillow,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1392,yes,2,چاپ دوم تا سال 1392,Second edition by 2013 (1392).,Appendix D
+OPW_0042,مزرعه‌ی گل‌های آفتابگردان,Mazra'eh-ye Golhā-ye Āftābgardān,The Sunflower Field,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1392,no,NA,,,Appendix D
+OPW_0043,باران دیگر نمی‌بارید,Bārān Digar Nemibārid,The Rain Had Stopped Falling,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1393,no,NA,,,Appendix D
+OPW_0044,سه فرشته با بال‌های طلایی و چشمان آبی رنگ,Se Fereshteh bā Bāl-hā-ye Talāyi va Cheshmān-e Ābi-Rang,Three Angels with Golden Wings and Blue Eyes,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1395,no,NA,,,Appendix D
+OPW_0045,سفال,Sofāl,Pottery,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1395,no,NA,,,Appendix D
+OPW_0046,پرواز,Parvāz,Flight,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1396,no,NA,,,Appendix D
+OPW_0047,قاصدک در باد,Ghāsedak dar Bād,Dandelion in the Wind,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1396,no,NA,,,Appendix D
+OPW_0048,کشتی سرگردان در مه دریا,Keshti-ye Sargardān dar Meh-e Daryā,The Wandering Ship in the Sea Fog,ai_literal_gloss,IA_0002,Ahmadreza Ahmadi,احمدرضا احمدی,1396,yes,3,چاپ سوم تا سال 1397,Third edition by 2018 (1397).,Appendix D
+OPW_0049,دور از خانه,Dur az Khāneh,Far from Home,ai_literal_gloss,IA_0027,Nader Ebrahimi,نادر ابراهیمی,1369,yes,4,,,Appendix D
+OPW_0050,همه‌‌‌ی گربه‌های من,Hameh-ye Gorbeh-hā-ye Man,All My Cats,ai_literal_gloss,IA_0027,Nader Ebrahimi,نادر ابراهیمی,1395,no,NA,,,Appendix D
+OPW_0051,سنجاب‌ها,Sanjāb-hā,The Squirrels,ai_literal_gloss,IA_0027,Nader Ebrahimi,نادر ابراهیمی,1395,no,NA,,,Appendix D
+OPW_0052,درخت قصه، قمری‌های قصه,"Derakht-e Ghesseh, Ghomri-hā-ye Ghesseh","The Story Tree, the Story Doves",ai_literal_gloss,IA_0027,Nader Ebrahimi,نادر ابراهیمی,1395,no,NA,,,Appendix D
+OPW_0053,خبر بد. رویای روزی که ساحر بزرگ به دیدار خواهد آمد,Khabar-e Bad. Royā-ye Ruzi ke Sāher-e Bozorg be Didār Khāhad Āmad,Bad News: Dream of the Day the Great Magician Will Come to Visit,ai_literal_gloss,IA_0027,Nader Ebrahimi,نادر ابراهیمی,1396,no,NA,,,Appendix D
+OPW_0054,ق‍ص‍ه‌ی‌ م‍وش‍ی‌ خ‍ودن‍م‍ا و ش‍ت‍ر ب‍اص‍ف‍ا: ب‍راس‍اس‌ داس‍ت‍ان‍ی‌ از م‍ث‍ن‍وی‌ م‍ول‍وی‌,Ghesseh-ye Mushi-ye Khodnamā va Shotor-e Bāsafā: Bar Asās-e Dāstāni az Masnavi-ye Molavi,The Tale of the Vain Mouse and the Kind Camel: Based on a Story from Rumi's Masnavi,ai_literal_gloss,IA_0027,Nader Ebrahimi,نادر ابراهیمی,1373,no,NA,,,Appendix D
+OPW_0055,قصه گلهای قالی,Ghesseh-ye Golhā-ye Ghāli,The Story of the Carpet Flowers,ai_literal_gloss,IA_0027,Nader Ebrahimi,نادر ابراهیمی,1395,yes,7,این کتاب درسال‌های 1395-1397 تجدید چاپ شده است.,This book was reprinted between 2016 and 2018 (1395 to 1397).,Appendix D
+OPW_0056,یادداشت های کودکی,Yāddāsht-hā-ye Kudaki,Childhood Notes,ai_literal_gloss,IA_0027,Nader Ebrahimi,نادر ابراهیمی,1391,no,NA,,,Appendix D
+OPW_0057,طلسم شهر تاریکی,Telesm-e Shahr-e Tāriki,The Spell of the City of Darkness,ai_literal_gloss,IA_0030,Reza Marzban,رضا مرزبان,1347,no,NA,,,Appendix D
+OPW_0058,کوچه‌باغ‌های شهر خواب,Kucheh-Bāgh-hā-ye Shahr-e Khāb,The Garden Lanes of Dream City,ai_literal_gloss,IA_0030,Reza Marzban,رضا مرزبان,1352,no,NA,,,Appendix D
+OPW_0059,گل بلور و خورشید,Gol-e Bolur va Khorshid,The Crystal Flower and the Sun,ai_literal_gloss,IA_0012,Farideh Farjam,فریده فرجام,1355,yes,6,چاپ ششم تا سال 1366,Sixth edition by 1987 (1366).,Appendix D
+OPW_0060,م‍ه‍م‍ان‍ه‍ای‌ ن‍اخ‍وان‍ده‌,Mehmān-hā-ye Nākhāndeh,Uninvited Guests,ai_literal_gloss,IA_0012,Farideh Farjam,فریده فرجام,1348,yes,21,این کتاب در سالهای 1348-1398 تجدید چاپ شده است.,This book was reprinted between 1969 and 2019 (1348 to 1398).,Appendix D
+OPW_0061,ع‍م‍و ن‍وروز,Amu Nowruz,Uncle Nowruz,ai_literal_gloss,IA_0012,Farideh Farjam,فریده فرجام,1389,yes,5,چاپ پنجم تا سال 1395,Fifth edition by 2016 (1395).,Appendix D
+OPW_0062,هرزه گیاه ماجراجو,Harzeh Giyāh-e Mājerāju,The Adventurous Weed,ai_literal_gloss,IA_0008,Dariush Ebadollahi,داریوش عباداللهی,1348,no,NA,,,Appendix D
+OPW_0063,روباه حیله گر و راسوی عاقل,Rubāh-e Hilegar va Rāsu-ye Āghel,The Cunning Fox and the Wise Weasel,ai_literal_gloss,IA_0008,Dariush Ebadollahi,داریوش عباداللهی,1335,yes,3,,,Appendix D
+OPW_0064,ن‍خ‍ودی‌ و ح‍اک‍م,Nokhodi va Hākem,Nokhodi and the Governor,ai_literal_gloss,IA_0008,Dariush Ebadollahi,داریوش عباداللهی,1349,no,NA,,,Appendix D
+OPW_0065,م‍اج‍رای‌ م‍رد ه‍ی‍زم‌ش‍ک‍ن‌ و خ‍رس,Mājerā-ye Mard-e Hizom-Shekan va Khers,The Woodcutter and the Bear,ai_literal_gloss,IA_0008,Dariush Ebadollahi,داریوش عباداللهی,1353,no,NA,,,Appendix D
+OPW_0066,م‍اج‍راه‍ای‌ راس‍و,Mājerāhā-ye Rāsu,The Adventures of the Weasel,ai_literal_gloss,IA_0008,Dariush Ebadollahi,داریوش عباداللهی,1353,no,NA,,,Appendix D
+OPW_0067,راس‍وی‌ ش‍ج‍اع‌,Rāsu-ye Shojā',The Brave Weasel,ai_literal_gloss,IA_0008,Dariush Ebadollahi,داریوش عباداللهی,1353,no,NA,,,Appendix D
+OPW_0068,ح‍اج‍ی‌ ف‍ی‍روز,Hāji Firuz,Haji Firuz,official_translation,IA_0008,Dariush Ebadollahi,داریوش عباداللهی,1349,yes,2,,,Appendix D
+OPW_0069,ماهی سیاه کوچولو,Māhi-ye Siyāh-e Kuchulu,The Little Black Fish,official_translation,IA_0032,Samad Behrangi,صمد بهرنگی,1346,yes,multiple,توسط انتشارات مختلف تجدید چاپ شده,Reprinted by various publishers.,Appendix D
+OPW_0070,یک هلو و هزار هلو,Yek Holu va Hezār Holu,One Peach and a Thousand Peaches,ai_literal_gloss,IA_0032,Samad Behrangi,صمد بهرنگی,1348,yes,multiple,توسط انتشارات مختلف تجدید چاپ شده,Reprinted by various publishers.,Appendix D
+OPW_0071,الدوز و کلاغ ها,Alduz va Kalāgh-hā,Alduz and the Crows,official_translation,IA_0032,Samad Behrangi,صمد بهرنگی,1348,yes,4,,,Appendix D
+OPW_0072,الدوز و عروسک سخنگو,Alduz va Arusak-e Sokhangū,Alduz and the Talking Doll,official_translation,IA_0032,Samad Behrangi,صمد بهرنگی,1378,no,NA,,,Appendix D
+OPW_0073,افسانه‌های آذربایجان,Afsāneh-hā-ye Āzarbāyjān,Tales of Azerbaijan,ai_literal_gloss,IA_0032,Samad Behrangi,صمد بهرنگی,1377,no,NA,,,Appendix D
+OPW_0074,آ،ب و گندم,"Ā, b, va Gandom",Water and Wheat,ai_literal_gloss,IA_0029,Qodsi Ghazinour,قدسی قاضی‌نور,NA,NA,NA,,,Appendix D
+OPW_0075,میهمانی مهتاب,Mehmāni-ye Mahtāb,Moonlight Feast,ai_literal_gloss,IA_0029,Qodsi Ghazinour,قدسی قاضی‌نور,1380,no,NA,,,Appendix D
+OPW_0076,با هم، با شدن و بی‌شدن,"Bā Ham, Bā Shodan va Bi-Shodan","Together, Becoming and Unbecoming",ai_literal_gloss,IA_0029,Qodsi Ghazinour,قدسی قاضی‌نور,1357,no,NA,,,Appendix D
+OPW_0077,قصۀ آقا کوزه,Ghesseh-ye Āghā Kuzeh,The Tale of Mr. Pitcher,ai_literal_gloss,IA_0004,Akbar Nemati,اکبر نعمتی,1352,no,NA,,,Appendix D
+OPW_0078,سرگذشت چمنزار بزرگ,Sargozasht-e Chamanzār-e Bozorg,The Story of the Great Meadow,ai_literal_gloss,IA_0036,Shakur Lotfi,شکور لطفی,1365,yes,4,,,Appendix D
+OPW_0079,این پایین خبری نیست,In Pāyin Khabari Nist,Nothing Is Happening Down Here,ai_literal_gloss,IA_0020,Mohammadrahim Okhovat,محمدرحیم اخوت,1355,no,NA,,,Appendix D
+OPW_0080,سرگذشت کشور کوچک,Sargozasht-e Keshvar-e Kuchak,The Story of a Small Country,ai_literal_gloss,IA_0017,Manouchehr Atashi,منوچهر آتشی,1350,no,NA,,,Appendix D
+OPW_0081,بقچه گلی,Boghcheh-ye Goli,The Flower Bundle,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1366,no,NA,,,Appendix D
+OPW_0082,کوتی کوتوله نقشه‌ی خاله,"Kuti Kutuleh, Nagsheh-ye Khāleh",Kuti the Dwarf and Auntie's Plan,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1395,no,NA,,,Appendix D
+OPW_0083,قصه‌های کوچک برای بچه‌های کوچک,Ghesseh-hā-ye Kuchak Barāye Bacheh-hā-ye Kuchak,Little Stories for Little Children,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1386,no,NA,,,Appendix D
+OPW_0084,پرنده سخنگو براساس حکایتی از مثنوی مولوی,"Parandeh-ye Sokhangū, Bar Asās-e Hekāyati az Masnavi-ye Molavi",The Talking Bird: Based on a Tale from Rumi's Masnavi,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1386,no,NA,,,Appendix D
+OPW_0085,م‍ج‍م‍وع‍ه‌ ب‍ه‍ت‍ری‍ن‌ اف‍س‍ان‍ه‌ه‍ا ب‍رای‌ ب‍ه‍ت‍ری‍ن‌ ب‍چ‍ه‌ه‍ا,Majmu'eh-ye Behtarin Afsāneh-hā Barāye Behtarin Bacheh-hā,The Best Fairy Tales for the Best Children,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1382,no,NA,,,Appendix D
+OPW_0086,ک‍اش‌ ی‍ک‍ی‌ ق‍ص‍ه‌اش‌ را م‍ی‌گ‍ف‍ت‌!,Kāsh Yeki Ghesseh-ash rā Migoft!,If Only Someone Would Tell Their Story!,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1384,no,NA,,,Appendix D
+OPW_0087,ق‍ص‍ه‌ه‍ای‌ ش‍ی‍ری‍ن‌ ه‍زار و ی‍ک‌ ش‍ب‌,Ghesseh-hā-ye Shirin-e Hezār va Yek Shab,Sweet Tales of One Thousand and One Nights,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1375,yes,12,چاپ دوازدهم تا سال 1388,Twelfth edition by 2009 (1388).,Appendix D
+OPW_0088,ب‍زب‍زق‍ن‍دی‌ و م‍اج‍راه‍ای‌ ت‍ازه,Bozboz-e Ghandi va Mājerāhā-ye Tāzeh,Sugar-Goat Bozboz and New Adventures,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1374,yes,5,چاپ پنجم تا سال 1391,Fifth edition by 2012 (1391).,Appendix D
+OPW_0089,تخمه سیاه خوش شانس و ۴ قصه دیگر,Tokhmeh-ye Siyāh-e Khosh-Shāns va 4 Ghesseh-ye Digar,The Lucky Black Seed and 4 Other Stories,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1383,no,NA,,,Appendix D
+OPW_0090,نخودی کتاب دوم :در دام مورچه ها,"Nokhodi, Ketāb-e Dovom: Dar Dām-e Murcheh-hā","Nokhodi, Book Two: Trapped by the Ants",ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1374,no,NA,,,Appendix D
+OPW_0091,گ‍ل‍ک‌ چ‍ه‌ م‍ه‍رب‍ان‌ اس‍ت‌!,Golak Che Mehrabān Ast!,How Kind Golak Is!,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1368,no,NA,,,Appendix D
+OPW_0092,س‍ف‍ر پ‍رخ‍طر,Safar-e Porkhatar,A Dangerous Journey,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1374,yes,7,,,Appendix D
+OPW_0093,م‍ورچ‍ه‌ ری‍زه‌ ق‍ص‍ه‌ م‍ی‌گ‍ف‍ت‌,Murcheh-Rizeh Ghesseh Migoft,Tiny Ant Told Stories,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1377,no,NA,,,Appendix D
+OPW_0094,پ‍س‍ت‍ه‌ ده‍ان‌ ب‍س‍ت‍ه‌ و ۴ قصه دیگر,Pesteh Dahān-Basteh va 4 Ghesseh-ye Digar,Silent Pistachio and 4 Other Stories,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1375,yes,21,,,Appendix D
+OPW_0095,ن‍خ‍ودی‌ در ق‍ص‍ر ح‍اک‍م‌,Nokhodi dar Ghasr-e Hākem,Nokhodi in the Governor's Palace,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1374,yes,7,,,Appendix D
+OPW_0096,ه‍وی‍ج‍ک‌ ت‍ن‍ب‍ل‍ی‌ ب‍ود و ق‍ص‍ه‌ه‍ای‌ دی‍گ‍ر,Havijak Tanbali Bud va Ghesseh-hā-ye Digar,Havijak Was Lazy and Other Stories,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1376,no,NA,,,Appendix D
+OPW_0097,نخ‍ودی‌ ب‍ا ال‍ه‍ام‌ از ی‍ک‌ اف‍س‍ان‍ه‌ ق‍دی‍م‍ی,Nokhodi bā Elhām az Yek Afsāneh-ye Ghadimi,Nokhodi: Inspired by an Old Folktale,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1375,yes,6,,,Appendix D
+OPW_0098,خ‍ال‍ه س‍وس‍ک‍ه‌ و آق‍ام‍وش‍ه‌,Khāleh Suskeh va Āghā Musheh,Aunt Cockroach and Mr. Mouse,official_translation,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1376,yes,6,,,Appendix D
+OPW_0099,م‍اج‍رای‌ ی‍ک‌ ت‍ول‍د ع‍ج‍ی‍ب,Mājerā-ye Yek Tavallod-e Ajib,The Story of a Strange Birth,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1374,yes,8,چاپ هشتم تا سال 1375,Eighth edition by 1996 (1375).,Appendix D
+OPW_0100,ش‍ش‌ س‍رب‍از ک‍وچ‍ول‍و,Shesh Sarbāz-e Kuchulu,Six Little Soldiers,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1374,yes,9,چاپ نهم تا سال 1377,Ninth edition by 1998 (1377).,Appendix D
+OPW_0101,اف‍س‍ان‍ه‌ دی‍و و دخ‍تر,Afsāneh-ye Div va Dokhtar,The Tale of the Demon and the Girl,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1376,no,NA,,,Appendix D
+OPW_0102,در دام‌ م‍ورچ‍ه‌ه‍ا,Dar Dām-e Murcheh-hā,Trapped by the Ants,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1374,yes,8,,,Appendix D
+OPW_0103,ب‍ارون‌ م‍ی‌آد، ش‍رش‍ر,"Bārun Miād, Shar Shar",The Rain Comes Pouring Down,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1378,no,NA,,,Appendix D
+OPW_0104,چ‍را ن‍م‍ی‌خ‍ن‍دی‌؟,Cherā Nemikhandi?,Why Don't You Laugh?,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1378,yes,7,,,Appendix D
+OPW_0105,م‍ی‍ه‍م‍ان‍ه‍ای‌ ن‍اخ‍وان‍ده‌,Mihmān-hā-ye Nākhāndeh,Uninvited Guests,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1381,yes,5,,,Appendix D
+OPW_0106,خ‍روس‌ گ‍ردو دزد,Khorus-e Gerdu Dozd,The Walnut-Thief Rooster,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1380,yes,3,,,Appendix D
+OPW_0107,ل‍چ‍ک‌ ق‍رم‍زی,Lachak Ghermezi,The Red Headscarf,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1380,yes,3,,,Appendix D
+OPW_0108,آج‍ی‍ل‌ م‍ش‍گ‍ل‌گ‍ش‍ا,Ājil-e Moshkel-Goshā,The Problem-Solving Trail Mix,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1380,yes,3,,,Appendix D
+OPW_0109,درخت سیاه,Derakht-e Siyāh,The Black Tree,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1393,no,NA,,,Appendix D
+OPW_0110,گل کوچولوی خجالتی,Gol-e Kuchulu-ye Khejālati,The Shy Little Flower,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1395,yes,2,این کتاب در سال ۱۳۹۷ تجدید چاپ شده است.,This book was reprinted in 2018 (1397).,Appendix D
+OPW_0111,غول عینکی,Ghul-e Eynaki,The Bespectacled Giant,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1395,yes,2,این کتاب در سال ۱۳۹۷ تجدید چاپ شده است.,This book was reprinted in 2018 (1397).,Appendix D
+OPW_0112,سوسک سیاه خوشبخت,Susk-e Siyāh-e Khoshbakht,The Lucky Black Beetle,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1395,yes,2,این کتاب در سال ۱۳۹۷ تجدید چاپ شده است.,This book was reprinted in 2018 (1397).,Appendix D
+OPW_0113,شش خط بازیگوش,Shesh Khat-e Bāzigush,Six Playful Lines,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1395,yes,2,این کتاب در سال ۱۳۹۷ تجدید چاپ شده است.,This book was reprinted in 2018 (1397).,Appendix D
+OPW_0114,خاله لک‌لک و نان قندی,Khāleh Laklak va Nān-e Ghandi,Aunt Stork and Sugar Bread,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1395,yes,2,این کتاب در سال ۱۳۹۷ تجدید چاپ شده است.,This book was reprinted in 2018 (1397).,Appendix D
+OPW_0115,بادکنک آبی,Bādkonak-e Ābi,The Blue Balloon,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1395,yes,2,این کتاب در سال ۱۳۹۷ تجدید چاپ شده است.,This book was reprinted in 2018 (1397).,Appendix D
+OPW_0116,کی می‌تواند مرا بخنداند؟,Ki Mitavānad Marā Bekhandānad?,Who Can Make Me Laugh?,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1395,no,NA,,,Appendix D
+OPW_0117,لی‌لی، لی‌لی عروسی,"Lili, Lili Arusi","Lili, Lili's Wedding",ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1395,yes,2,این کتاب در سال ۱۳۹۷ تجدید چاپ شده است.,This book was reprinted in 2018 (1397).,Appendix D
+OPW_0118,قوطی کبریت خالی,Ghuti Kebrit-e Khāli,The Empty Matchbox,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1395,yes,2,این کتاب در سال ۱۳۹۷ تجدید چاپ شده است.,This book was reprinted in 2018 (1397).,Appendix D
+OPW_0119,کوتی کوتوله آش خاله,"Kuti Kutuleh, Āsh-e Khāleh","Kuti the Dwarf, Auntie's Soup",ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1395,no,NA,,,Appendix D
+OPW_0120,کوتی کوتوله همسایه‌ی خاله,"Kuti Kutuleh, Hamsāyeh-ye Khāleh","Kuti the Dwarf, Auntie's Neighbor",ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1395,no,NA,,,Appendix D
+OPW_0121,کوتی کوتوله غول‌ خاله,"Kuti Kutuleh, Ghul-e Khāleh","Kuti the Dwarf, Auntie's Giant",ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1395,no,NA,,,Appendix D
+OPW_0122,نوک به کدو,Nok be Kadu,Pumpkin Pecker,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1396,yes,2,,,Appendix D
+OPW_0123,پیشی شکمو,Pishi-ye Shekamu,The Greedy Kitty,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1396,yes,2,,,Appendix D
+OPW_0124,س‍ت‍اره‌ای‌ ک‍ه‌ اف‍ت‍اد,Setāreh-i ke Oftād,The Star That Fell,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1376,no,NA,,,Appendix D
+OPW_0125,ک‍لاغ‍ه‌ ب‍ه‌ خ‍ان‍ه‌اش‌ رس‍ی‍د,Kalāgheh be Khāneh-ash Resid,The Crow Reached Home,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1375,no,NA,,,Appendix D
+OPW_0126,ق‍ورب‍اغ‍ه‌ خ‍ج‍ال‍ت‍ی‌ و ۵ ق‍ص‍ه‌ دی‍گ‍ر,Ghurbāgheh-ye Khejālati va 5 Ghesseh-ye Digar,The Shy Frog and 5 Other Stories,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1381,yes,16,,,Appendix D
+OPW_0127,هلی‌ فسقلی در سرزمین غول‌ها,Heli-ye Fesgheli dar Sarzamin-e Ghul-hā,Little Heli in the Land of Giants,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1381,yes,2,,,Appendix D
+OPW_0128,گاوی که زبان آدم بلد باشد,Gāvi ke Zabān-e Ādam Balad Bāshad,A Cow That Knows Human Language,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1394,no,NA,,,Appendix D
+OPW_0129,چکه‌ی خوشبخت,Chekkeh-ye Khoshbakht,The Lucky Drop,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1395,no,NA,,,Appendix D
+OPW_0130,ماجراهای نخودی,Mājerāhā-ye Nokhodi,The Adventures of Nokhodi,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1389,yes,7,,,Appendix D
+OPW_0131,کفش‌های جادویی جوم جوم و قصه‌های دیگر,Kafsh-hā-ye Jāduyi-ye Jum Jum va Ghesseh-hā-ye Digar,Jum Jum's Magic Shoes and Other Stories,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1399,no,NA,,,Appendix D
+OPW_0132,گ‍او پ‍ی‍ش‍ان‍ی‌ س‍ف‍ی‍د,Gāv-e Pishāni-Sefid,The White-Foreheaded Cow,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1382,yes,4,,,Appendix D
+OPW_0133,ه‍زارپ‍ا و م‍اه,Hezārpā va Māh,The Centipede and the Moon,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1369,no,NA,,,Appendix D
+OPW_0134,ان‍دازه‌ دن‍ی‍ا,Andāzeh-ye Donyā,The Size of the World,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1369,no,NA,,,Appendix D
+OPW_0135,آق‍ا م‍وش‌ ب‍اه‍وش‌ و ۴ ق‍ص‍ه‌ دی‍گ‍ر,Āghā Mush-e Bāhush va 4 Ghesseh-ye Digar,Clever Mr. Mouse and 4 Other Stories,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1375,yes,21,,,Appendix D
+OPW_0136,آق‍ا ت‍ل‍ف‍ن‌ زن‍گ‌ م‍ی‌زن‍ه‌ و ۴ ق‍ص‍ه‌ دی‍گ‍ر,Āghā Telefon Zang Mizaneh va 4 Ghesseh-ye Digar,Mr. Telephone Is Ringing and 4 Other Stories,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1388,yes,11,این کتاب از سال ۱۳۸۳ تا ۱۳۹۸ تجدیدچاپ شده است.,This book was reprinted from 2004 to 2019 (1383 to 1398).,Appendix D
+OPW_0137,گندمک و برنجک,Gandomak va Berenjak,Little Wheat and Little Rice,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1396,no,NA,,,Appendix D
+OPW_0138,خروس نوک کج,Khorus-e Nok Kaj,The Crooked-Beaked Rooster,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1396,yes,2,,,Appendix D
+OPW_0139,کاتی کامپیوتری,Kāti Kāmpiuteri,Computerized Kati,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1397,no,NA,"کتاب حاضر برداشتی آزاد از بخشی از مجموعه ""Little Monsters"" تحت عنوان""Computer Chip"" است.","This book is a free adaptation of the ""Computer Chip"" story from the ""Little Monsters"" series.",Appendix D
+OPW_0140,جی‌جو جنگجو,Ji-Ju Jangju,Ji-Ju the Warrior,ai_literal_gloss,IA_0037,Shokouh Ghasemnia,شکوه قاسم‌نیا,1398,no,NA,کتاب حاضر اقتباس از یکی از داستانهای فسقلی‌ها به نوشته تونی گراس است.,This book is adapted from one of the Little Monsters stories by Tony Gross.,Appendix D
+OPW_0141,امروز چلچلۀ من,Emruz Chelcheleh-ye Man,My Swallow Today,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1370,yes,3,,,Appendix D
+OPW_0142,هوشمندان سیارۀ اوراک,Hushmandān-e Sayyāreh-ye Urāk,The Wise Ones of Planet Urak,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1371,yes,6,,,Appendix D
+OPW_0143,آخرین تک شاخ,Ākharin Tak-Shākh,The Last Unicorn,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1376,no,NA,,,Appendix D
+OPW_0144,ابروهای جادویی کیوکیو,Abruhā-ye Jāduyi-ye KyuKyu,KyuKyu's Magical Eyebrows,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1379,yes,2,,,Appendix D
+OPW_0145,قصه‌های یک دقیقه‌ای,Ghesseh-hā-ye Yek Daghigheh-i,One-Minute Stories,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1379,no,NA,,,Appendix D
+OPW_0146,نردبان هزار پله,Nardebān-e Hezār Pelleh,The Thousand-Step Stairway,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1382,yes,6,,,Appendix D
+OPW_0147,تو بغل کی بپرم,Tu Baghal-e Ki Beparam,Whose Arms Should I Jump Into?,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1392,no,NA,,,Appendix D
+OPW_0148,همان کفش دوزک همیشگی,Hamān Kafshduzak-e Hamishegi,The Same Old Ladybug,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1392,no,NA,,,Appendix D
+OPW_0149,گردنبندی که قشنگ بود,Gardanbandi ke Ghashang Bud,The Necklace That Was Beautiful,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1392,no,NA,,,Appendix D
+OPW_0150,گ‍ی‍ل‍گ‍م‍ش‌,Gilgamesh,Gilgamesh,official_translation,IA_0011,Fariba Kalhor,فریبا کلهر,1375,yes,3,,,Appendix D
+OPW_0151,دو موش و یک آرزو و ۶ قصه‌ی دیگر,Do Mush va Yek Ārezu va 6 Ghesseh-ye Digar,Two Mice and a Wish and 6 Other Stories,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1393,yes,4,,,Appendix D
+OPW_0152,یک پرش و دو پرش و سه پرش,Yek Paresh va Do Paresh va Se Paresh,"One Jump, Two Jumps, and Three Jumps",ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1393,no,NA,,,Appendix D
+OPW_0153,چه گربه‌های گرم و نرمی و ۶ قصه دیگر,Che Gorbeh-hā-ye Garm va Narmi va 6 Ghesseh-ye Digar,What Warm and Soft Cats! and 6 Other Stories,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1393,no,NA,,,Appendix D
+OPW_0154,یک خانه و دو کرگدن و ۶ قصه دیگر,Yek Khāneh va Do Kargadan va 6 Ghesseh-ye Digar,"One House, Two Rhinoceroses, and 6 Other Stories",ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1393,yes,3,,,Appendix D
+OPW_0155,ماه لاغر مردنی و۶ قصه‌ی دیگر,Māh-e Lāghar-Mordani va 6 Ghesseh-ye Digar,The Skinny Moon and 6 Other Stories,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1393,yes,3,,,Appendix D
+OPW_0156,فسقل قصه‌های موتوری,Fesghel-e Ghesseh-hā-ye Motori,Fesghel of Motorized Stories,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1393,no,NA,,,Appendix D
+OPW_0157,دندان‌های پدربزرگ,Dandān-hā-ye Pedarbozorg,Grandfather's Teeth,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1395,no,NA,,,Appendix D
+OPW_0158,کوفته ها را کی خورده؟ و ۶ قصه‌ی دیگر,Kufteh-hā rā Ki Khordeh? va 6 Ghesseh-ye Digar,Who Ate the Meatballs? and 6 Other Stories,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1395,yes,3,,,Appendix D
+OPW_0159,آخ و اوخ قهرمان و ۶ قصه دیگر,Ākh o Oukh-e Ghahremān va 6 Ghesseh-ye Digar,Ouch and Ow of the Hero and 6 Other Stories,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1395,yes,4,,,Appendix D
+OPW_0160,گربه‌ی مکعبی مخلوط,Gorbeh-ye Moka'abi-ye Makhlut,The Mixed-Up Cube Cat,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1395,no,NA,,,Appendix D
+OPW_0161,خورشیدخانم مامان شده! و ۶ قصه‌ی دیگر,Khorshid Khānom Māmān Shodeh! va 6 Ghesseh-ye Digar,Mrs. Sun Has Become a Mother! and Six Other Stories,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1395,yes,3,,,Appendix D
+OPW_0162,۳۱قصه‌ی تصویری برای تیر,31 Ghesseh-ye Tasviri Barāye Tir,31 Picture Stories for Tir,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1395,no,NA,ترجمه‌شده از فارسی به انگلیسی,Translated from Persian into English.,Appendix D
+OPW_0163,۳۱ قصه‌ی تصویری برای خرداد,31 Ghesseh-ye Tasviri Barāye Khordād,31 Picture Stories for Khordad,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1395,no,NA,ترجمه‌شده از فارسی به انگلیسی,Translated from Persian into English.,Appendix D
+OPW_0164,بچه فیل گم‌شده و ۶ قصه‌ی دیگر,Bacheh Fil-e Gomshodeh va 6 Ghesseh-ye Digar,The Lost Baby Elephant and 6 Other Stories,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1388,yes,4,,,Appendix D
+OPW_0165,سرزمین به هم ریخته,Sarzamin-e Be Ham Rikhteh,The Mixed-Up Land,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1396,no,NA,,,Appendix D
+OPW_0166,نجار شهر هیولاها,Najjār-e Shahr-e Hayulāhā,The Carpenter of Monster City,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1396,no,NA,,,Appendix D
+OPW_0167,نقلی‌خان و دار و دسته‌اش,Noghli Khān va Dār o Dasteh-ash,Noghli Khan and His Gang,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1396,no,NA,,,Appendix D
+OPW_0168,مهمان ناخوانده فضایی و ۶ قصه‌ی دیگر,Mehmān-e Nākhāndeh-ye Fazāyi va 6 Ghesseh-ye Digar,The Uninvited Space Guest and 6 Other Stories,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1388,yes,4,,,Appendix D
+OPW_0169,پیرزن دوچرخه‌سوار,Pirezan-e Docharkheh-Savār,The Bicycle-Riding Old Woman,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1383,yes,5,,,Appendix D
+OPW_0170,آقای هندوانه,Āghā-ye Hendevāneh,Mr. Watermelon,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1389,no,NA,,,Appendix D
+OPW_0171,تمساح اسکیت‌سوار,Temsāh-e Eskeit-Savār,The Skateboarding Crocodile,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1399,no,NA,,,Appendix D
+OPW_0172,ساسی بی‌‌چشم و رو,Sāsi-ye Bi-Cheshm o Ru,Shameless Sasi,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1399,no,NA,,,Appendix D
+OPW_0173,ه‍م‍ب‍ازی‌ ب‍اد,Hambāzi-ye Bād,Wind Playmate,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1366,yes,2,,,Appendix D
+OPW_0174,ی‍ک‌ ح‍رف‌ ت‍ازه‌,Yek Harf-e Tāzeh,A New Word,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1368,yes,4,,,Appendix D
+OPW_0175,ق‍ص‍ه‌ه‍ای‌ س‍ف‍ر,Ghesseh-hā-ye Safar,Travel Stories,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1368,no,NA,,,Appendix D
+OPW_0176,ب‍اد و ب‍ادک‍ن‍ک‌,Bād va Bādkonak,The Wind and the Balloon,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1369,no,NA,,,Appendix D
+OPW_0177,ن‍ی‌‌ل‍ب‍ک‌ س‍ح‍رآم‍ی‍ز فقط خوبی می بیند,Neylabak-e Sehrāmiz Faghat Khubi Mibinad,The Magical Flute Sees Only Goodness,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1372,yes,3,,,Appendix D
+OPW_0178,ی‍ک‌ ق‍ص‍ه‌ ت‍رس‍ن‍اک‌ و ی‍ازده‌ داس‍ت‍ان‌ دی‍گ‍ر,Yek Ghesseh-ye Tarsnāk va Yāzdah Dāstān-e Digar,A Scary Story and Eleven Other Tales,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1372,no,NA,,,Appendix D
+OPW_0179,ب‍ان‍وی‌ ه‍زار ق‍ص‍ه,Bānu-ye Hezār Ghesseh,The Lady of a Thousand Tales,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1375,no,NA,,,Appendix D
+OPW_0180,اف‍س‍ان‍ه‌ پ‍س‍رک,Afsāneh-ye Pesarak,The Boy's Legend,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1377,no,NA,,,Appendix D
+OPW_0181,ج‍زی‍ره‌ اف‍س‍ون‍گ‍ران‌,Jazireh-ye Afsungarān,The Island of Enchanters,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1378,yes,3,,,Appendix D
+OPW_0182,س‍لام‌ ب‍ر ن‍ور خ‍ی‍ره‌ک‍ن‍ن‍ده‌,Salām bar Nur-e Khireh-Konandeh,Greetings to the Dazzling Light,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1379,yes,4,,,Appendix D
+OPW_0183,ب‍ی‌ب‍ی‌گ‍ل‌ و چ‍راغ‌ ج‍ادو,Bibi Gol va Cherāgh-e Jādu,Bibi Gol and the Magic Lamp,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1379,yes,2,,,Appendix D
+OPW_0184,دام‍ادی‌ ک‍ه‌ ه‍م‍ی‍ش‍ه‌ ج‍وج‍ه‌ت‍ی‍غ‍ی‌ اس‍ت,Dāmādi ke Hamisheh Jujeh-Tighi Ast,The Groom Who Is Always a Hedgehog,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1380,no,NA,,,Appendix D
+OPW_0185,پ‍س‍ر ب‍چ‍ه‌ای‌ ک‍ه‌ پ‍ول‌ ش‍د!,Pesar-Bacheh-i ke Pul Shod!,The Boy Who Turned into Money!,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1380,no,NA,,,Appendix D
+OPW_0186,وق‍ت‍ی‌ ک‍ه‌ ج‍ب‍رئ‍ی‍ل‌ ت‍ک‍ل‍ی‍ف‌ خ‍ودش‌ را ن‍م‍ی‌دان‍د,Vaghti ke Jebra'il Taklif-e Khodesh rā Nemidānad,When Gabriel Doesn't Know What to Do,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1380,no,NA,,,Appendix D
+OPW_0187,ش‍اگ‍رده‍ای‍ی‌ ک‍ه‌ ب‍ه‌ ح‍رف‌ م‍ع‍ل‍م‌ خ‍ود گ‍وش‌ ک‍ردن‍د,Shāgerdhāyi ke be Harf-e Mo'allem-e Khod Gush Kardand,The Pupils Who Listened to Their Teacher,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1380,no,NA,,,Appendix D
+OPW_0188,ای‌ ک‍اش‌ ک‍س‍ی‌ ای‍ن‌ ت‍خ‍ت‍ه‌ س‍ن‍گ‌ را ن‍خ‍ورد!,Ey Kāsh Kasi In Takhteh-Sang rā Nakhorad!,If Only Nobody Ate This Stone Slab!,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1380,no,NA,,,Appendix D
+OPW_0189,خ‍زان‍ه‌ ای‍ن‍ج‍اس‍ت‌، در ش‍ک‍م‌ ای‍ن‌ گ‍ورخ‍ر!,"Khazāneh Injāst, dar Shekam-e In Gurekhar!","The Treasure Is Here, Inside This Zebra's Belly!",ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1380,no,NA,,,Appendix D
+OPW_0190,ف‍ری‍اد زدن‌ ی‍ک‌ گ‍ن‍ج‌ اس‍ت,Faryād Zadan Yek Ganj Ast,Shouting Is a Treasure,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1380,no,NA,,,Appendix D
+OPW_0191,گ‍رب‍ه‌ای‌ ب‍ه‌ ن‍ام‌ راب‍ی‍ن‌ ه‍ود,Gorbeh-i be Nām-e Robin Hood,A Cat Named Robin Hood,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1380,no,NA,,,Appendix D
+OPW_0192,ک‍رم‍ی‌ ک‍ه‌ ن‍م‍ی‌خ‍واس‍ت‌ رازش‌ ف‍اش‌ ش‍ود,Kermi ke Nemikhāst Rāzash Fāsh Shavad,The Worm That Didn't Want Its Secret Revealed,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1380,no,NA,,,Appendix D
+OPW_0193,ب‍ز خ‍وش‌ش‍ان‍س‍ی‌ ک‍ه‌ ی‍ک‌ ج‍اروی‌ پ‍رن‍ده‌ را خ‍ورد!,Boz-e Khosh-Shānsi ke Yek Jāru-ye Parandeh rā Khord!,The Lucky Goat That Ate a Flying Broom!,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1380,no,NA,,,Appendix D
+OPW_0194,پ‍ی‍رزن‍ی‌ ک‍ه‌ از دی‍و خ‍طرن‍اک‌ت‍ر ب‍ود,Pirezani ke az Div Khatarnāktar Bud,The Old Woman Who Was More Dangerous Than a Demon,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1380,no,NA,,,Appendix D
+OPW_0195,ق‍ص‍ه‌ ت‍ف‍ن‍گ‍ی‌ ک‍ه‌ ک‍ت‍اب‌ را ت‍ن‍ه‍ا گ‍ذاش‍ت‌,Ghesseh-ye Tofangi ke Ketāb rā Tanhā Gozāsht,The Story of the Gun That Left the Book Alone,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1380,no,NA,,,Appendix D
+OPW_0196,گ‍رب‍ه‌ آرزو,Gorbeh-ye Ārezu,Wish Cat,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1380,no,NA,,,Appendix D
+OPW_0197,من همانم، من همانم,"Man Hamānam, Man Hamānam","I Am the Same One, I Am the Same One",ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1382,yes,2,,,Appendix D
+OPW_0198,ی‍ک‌ ک‍لاه‌ و ای‍ن‌ ه‍م‍ه‌ م‍ه‍م‍ان,Yek Kolāh va In Hameh Mehmān,One Hat and All These Guests,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1384,no,NA,,,Appendix D
+OPW_0199,دوچ‍رخ‍ه‌ و پ‍رن‍ده‌,Docharkheh va Parandeh,The Bicycle and the Bird,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1387,yes,2,,,Appendix D
+OPW_0200,چه عیبی داره!,Che Eybi Dāreh!,What's Wrong with That?,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1388,no,NA,,,Appendix D
+OPW_0201,لالایی موشها و ۶ قصه دیگر,Lālāyi-ye Mushhā va 6 Ghesseh-ye Digar,Lullaby of the Mice and 6 Other Stories,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1388,yes,3,,,Appendix D
+OPW_0202,من وگربه سیاهه,Man va Gorbeh Siyāheh,Me and the Black Cat,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1388,no,NA,,,Appendix D
+OPW_0203,قصه‌های آقا کوچولو,Ghesseh-hā-ye Āghā Kuchulu,Stories of Little Mister,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1389,no,NA,,,Appendix D
+OPW_0204,مادر خسته و پسر خوش خنده,Mādar-e Khasteh va Pesar-e Khosh-Khandeh,The Tired Mother and the Cheerful Son,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1389,yes,4,,,Appendix D
+OPW_0205,ماشینی که خیابان می‌خورد,Māshini ke Khiābān Mikhord,The Car That Ate Streets,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1389,yes,4,,,Appendix D
+OPW_0206,پیرزنی که دنیا را بافت و ۶ قصه‌ی دیگر,Pirezani ke Donyā rā Bāft va 6 Ghesseh-ye Digar,The Old Woman Who Knitted the World and 6 Other Stories,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1390,yes,3,,,Appendix D
+OPW_0207,جوجه جغله و ۶ قصه‌ی دیگر,Jujeh Jegheleh va 6 Ghesseh-ye Digar,Little Chick and 6 Other Stories,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1390,yes,3,,,Appendix D
+OPW_0208,اف‍س‍ان‍ه‌ گ‍رش‍اس‍ب,Afsāneh-ye Garshāsb,The Legend of Garshasp,official_translation,IA_0011,Fariba Kalhor,فریبا کلهر,1377,yes,2,,,Appendix D
+OPW_0209,دخ‍ت‍ر ن‍ف‍ری‍ن‌ش‍ده,Dokhtar-e Nefrin-Shodeh,The Cursed Girl,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1377,no,NA,,,Appendix D
+OPW_0210,ک‍ول‍ی‍ه‍ا و اف‍س‍ان‍ه‌ه‍ای‍ش‍ان,Kolihā va Afsāneh-hā-yeshān,The Gypsies and Their Legends,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1376,no,NA,,,Appendix D
+OPW_0211,تندتر از اونه که یواش باشه,Tondtar az Uneh ke Yavāsh Bāsheh,Faster Than It Could Ever Be Slow,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1389,yes,2,,,Appendix D
+OPW_0212,فقط می‌توانم پدر باشم,Faghat Mitavānam Pedar Bāsham,I Can Only Be a Father,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1388,yes,2,,,Appendix D
+OPW_0213,۷۰ قصه‌ی قد و نیم قد برای کودکان,70 Ghesseh-ye Ghad o Nim-Ghad Barāye Kudakān,70 Tall and Short Stories for Children,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1389,yes,3,,,Appendix D
+OPW_0214,گوشواره‌ای برای موش خوشگله و ۶ قصه‌ی دیگر,Gushvāreh-i Barāye Mush Khoshgeleh va 6 Ghesseh-ye Digar,An Earring for the Pretty Mouse and 6 Other Stories,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1390,yes,3,,,Appendix D
+OPW_0215,سه گچ رنگی و ۶ قصه دیگر,Se Gach-e Rangi va 6 Ghesseh-ye Digar,Three Colored Chalks and 6 Other Stories,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1390,yes,3,,,Appendix D
+OPW_0216,گربه‌ای که پیاده نمی‌شد و ۶ قصه‌ی دیگر,Gorbeh-i ke Piādeh Nemishod va 6 Ghesseh-ye Digar,The Cat That Wouldn't Get Off and 6 Other Stories,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1390,yes,3,,,Appendix D
+OPW_0217,شانه یواشکی خندید و ۶ قصه‌ی دیگر,Shāneh Yavāshaki Khandid va 6 Ghesseh-ye Digar,The Comb Secretly Laughed and 6 Other Stories,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1390,yes,3,,,Appendix D
+OPW_0218,حمله‌ی غول‌های آهنی و ۶ قصه‌ی دیگر,Hamleh-ye Ghul-hā-ye Āhani va 6 Ghesseh-ye Digar,Attack of the Iron Giants and 6 Other Stories,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1390,yes,3,,,Appendix D
+OPW_0219,مهمانی خانم غازه و ۶قصه‌ی دیگر,Mehmāni-ye Khānom Ghāzeh va 6 Ghesseh-ye Digar,Mrs. Goose's Party and 6 Other Stories,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1390,yes,4,,,Appendix D
+OPW_0220,من و درخت پنیر,Man va Derakht-e Panir,Me and the Cheese Tree,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1390,yes,3,,,Appendix D
+OPW_0221,تب شصت و چهار درجه‌ی جادوگرخوشگله,Tab-e Shast o Chahār Darajeh-ye Jādugar Khoshgeleh,The Pretty Wizard's Sixty-Four Degree Fever,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1390,yes,2,,,Appendix D
+OPW_0222,فضانورد در کورۀ آجرپزی,Fazānavard dar Kureh-ye Ājorpazi,The Astronaut in the Brick Kiln,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1367,no,NA,,,Appendix D
+OPW_0223,دخترک و آهوی ابریشمی,Dokhtarak va Āhu-ye Abrishami,The Little Girl and the Silken Deer,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1369,no,NA,,,Appendix D
+OPW_0224,امپراتور سیب‌زمینی چهارم,Emperātor Sibzamini-ye Chahārom,Emperor Potato IV,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1370,no,NA,,,Appendix D
+OPW_0225,باغ وحش آسمان,Bāgh-e Vahsh-e Āsemān,The Sky Zoo,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1370,no,NA,,,Appendix D
+OPW_0226,عینکی برای اژدها,Eynaki Barāye Ezhdehā,Glasses for a Dragon,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1375,no,NA,,,Appendix D
+OPW_0227,فانتزی شلغم و عقل,Fāntezi-ye Shalgham va Aghl,Turnip and Wisdom: A Fantasy,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1377,yes,2,,,Appendix D
+OPW_0228,س‍ت‍اره‌ ب‍ال‍دار,Setāreh-ye Bāldār,The Winged Star,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1369,no,NA,,,Appendix D
+OPW_0229,داس‍ت‍ان‍ک‌ه‍ای‌ ن‍خ‍ودی,Dāstānak-hā-ye Nokhodi,Little Stories of Nokhodi,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1370,yes,2,,,Appendix D
+OPW_0230,اف‍س‍ان‍ه‌ی‌ درخ‍ت‌ خ‍رم‍ا و ب‍زی,Afsāneh-ye Derakht-e Khormā va Bozi,The Legend of the Date Palm and Bozi,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1383,no,NA,,,Appendix D
+OPW_0231,وح‍ش‍ت‍ن‍اک‍ت‍ری‍ن‌ ح‍ی‍وان‌ دن‍ی‍ا,Vahshatnāktarin Heyvān-e Donyā,The Most Terrifying Animal in the World,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1384,no,NA,ترجمه‌شده از فارسی به فرانسه، م‍ت‍رج‍م‌ ع‍ل‍ی‌ ع‍ب‍اس‍ی,Translated from Persian into French. Translator: Ali Abbasi.,Appendix D
+OPW_0232,آدم کوچک و خواب‌های بزرگ,Ādam-e Kuchak va Khāb-hā-ye Bozorg,The Little Person and Big Dreams,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1392,no,NA,,,Appendix D
+OPW_0233,هفت رویای کلاغ,Haft Royā-ye Kalāgh,Seven Dreams of a Crow,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1392,no,NA,,,Appendix D
+OPW_0234,آهنگ تار کولی,Āhang-e Tār-e Koli,The Melody of the Gypsy's Tar,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1392,no,NA,,,Appendix D
+OPW_0235,پلنگ و گرگ,Palang va Gorg,The Leopard and the Wolf,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1394,no,NA,,,Appendix D
+OPW_0236,گربه و پلنگ,Gorbeh va Palang,The Cat and the Leopard,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1394,no,NA,,,Appendix D
+OPW_0237,آدم برفی و گل سرخ,Ādam Barfi va Gol-e Sorkh,The Snowman and the Red Rose,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1395,no,NA,,,Appendix D
+OPW_0238,بنفشه‌های عمو نوروز,Banafsheh-hā-ye Amu Nowruz,Uncle Nowruz's Violets,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1395,no,NA,,,Appendix D
+OPW_0239,دیو سیاه و موش سفید,Div-e Siyāh va Mush-e Sefid,The Black Demon and the White Mouse,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1396,no,NA,,,Appendix D
+OPW_0240,هویج پالتوپوش,Havij-e Pālto-Push,The Coat-Wearing Carrot,ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1396,no,NA,,,Appendix D
+OPW_0241,هفت اسب هفت رنگ,"Haft Asb, Haft Rang","Seven Horses, Seven Colors",ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1396,no,NA,,,Appendix D
+OPW_0242,گوش بال بال گوش,Gush Bāl Bāl Gush,"Ear, Flap, Flap, Ear",ai_literal_gloss,IA_0011,Fariba Kalhor,فریبا کلهر,1399,no,NA,,,Appendix D
+OPW_0243,سه سوت جادویی,Se Sut-e Jāduyi,Three Magic Whistles,ai_literal_gloss,IA_0001,Ahmad Akbarpour,احمد اکبرپور,1387,yes,2,,,Appendix D
+OPW_0244,من مترسکم ولی می‌ترسم,Man Matarsakam Vali Mitarsam,"I'm a Scarecrow, But I'm Afraid",ai_literal_gloss,IA_0001,Ahmad Akbarpour,احمد اکبرپور,1396,yes,2,,,Appendix D
+OPW_0245,خواب یک دوست,Khāb-e Yek Dust,A Friend's Dream,ai_literal_gloss,IA_0001,Ahmad Akbarpour,احمد اکبرپور,1394,no,NA,,,Appendix D
+OPW_0246,غول و دوچرخه,Ghul va Docharkheh,The Giant and the Bicycle,ai_literal_gloss,IA_0001,Ahmad Akbarpour,احمد اکبرپور,1387,yes,2,,,Appendix D
+OPW_0247,ازدواج با خورشید,Ezdevāj bā Khorshid,Marriage to the Sun,ai_literal_gloss,IA_0001,Ahmad Akbarpour,احمد اکبرپور,1396,yes,2,,,Appendix D
+OPW_0248,کرم شلوارپوش,Kerm-e Shalvār-Push,The Trouser-Wearing Worm,ai_literal_gloss,IA_0001,Ahmad Akbarpour,احمد اکبرپور,1394,no,NA,,,Appendix D
+OPW_0249,مادربزرگ جادویی,Mādarbozorg-e Jāduyi,The Magical Grandmother,ai_literal_gloss,IA_0001,Ahmad Akbarpour,احمد اکبرپور,1393,yes,3,,,Appendix D
+OPW_0250,مهمانهای ناخوانده,Mehmān-hā-ye Nākhāndeh,Uninvited Guests,ai_literal_gloss,IA_0001,Ahmad Akbarpour,احمد اکبرپور,1398,no,NA,,,Appendix D
+OPW_0251,قوی ترین موجود دنیا,Ghavi-Tarin Mojud-e Donyā,The Strongest Creature in the World,ai_literal_gloss,IA_0001,Ahmad Akbarpour,احمد اکبرپور,1390,no,NA,,,Appendix D
+OPW_0252,یک تپلی برای ناهار غول‌ها,Yek Topoli Barāye Nāhār-e Ghul-hā,A Chubby One for the Giants' Lunch,ai_literal_gloss,IA_0001,Ahmad Akbarpour,احمد اکبرپور,1399,no,NA,,,Appendix D
+OPW_0253,شب به‌خیر فرمانده,Shab Bekheyr Farmāndeh,"Good Night, Commander",ai_literal_gloss,IA_0001,Ahmad Akbarpour,احمد اکبرپور,1394,yes,3,,,Appendix D
+OPW_0254,به دمم نگاه نکن!,Be Dommam Negāh Nakon!,Don't Look at My Tail!,ai_literal_gloss,IA_0001,Ahmad Akbarpour,احمد اکبرپور,1398,no,NA,,,Appendix D
+OPW_0255,نامه را باز نکن قارقاری,"Nāmeh rā Bāz Nakon, Ghār Ghāri","Don't Open the Letter, Caw-caw!",ai_literal_gloss,IA_0001,Ahmad Akbarpour,احمد اکبرپور,1398,no,NA,,,Appendix D
+OPW_0256,به فرمان من واق واق واق,"Be Farmān-e Man, Vāgh Vāgh Vāgh","At My Command: Woof, Woof, Woof!",ai_literal_gloss,IA_0001,Ahmad Akbarpour,احمد اکبرپور,1398,no,NA,,,Appendix D
+OPW_0257,دخ‍ت‍ره‍ای‍ی‌ ب‍ه‌ ک‍وچ‍ک‍ی‌ ی‍ک‌ ان‍گ‍ش‍ت,Dokhtarhayi be Kuchaki-ye Yek Angosht,Girls as Small as a Thumb,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1369,no,NA,,,Appendix D
+OPW_0258,پ‍س‌ ک‍ی‌ ب‍رف‌ م‍ی‌ب‍ارد؟,Pas Key Barf Mibārad?,So When Will It Snow?,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1370,yes,5,,,Appendix D
+OPW_0259,ن‍ن‍ه‌پ‍وت‍ی‌ پ‍وت‍ی‌ پ‍ن‍ب‍ه‌,Naneh Puti Puti Panbeh,Granny Puti Puti Cotton,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1372,yes,2,,,Appendix D
+OPW_0260,ه‍زار ت‍ا اس‍ب‌ پ‍ا ک‍وت‍اه‌,Hezār Tā Asb-e Pā-Kutāh,A Thousand Short-Legged Horses,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1376,no,NA,,,Appendix D
+OPW_0261,ح‍س‍ن‍ی‌ و م‍رغ‌ ت‍خ‍م‌ طلا,Hasani va Morgh-e Tokhm Talā,Hasani and the Golden-Egg Hen,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1378,yes,4,,,Appendix D
+OPW_0262,ح‍س‍ن‍ی‌ و خ‍ان‍م‌ طلا,Hasani va Khānom Talā,Hasani and Lady Tala,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1378,yes,4,,,Appendix D
+OPW_0263,ج‍وراب‌ س‍وراخ‌,Jurāb-e Surākh,The Holey Sock,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1382,no,NA,,,Appendix D
+OPW_0264,ف‍ی‍ل‌ ب‍رق‍ی,Fil-e Barghi,The Electric Elephant,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1382,yes,4,,,Appendix D
+OPW_0265,پ‍س‌ ن‍ی‌ن‍ی‌ م‍ا ک‍ج‍اس‍ت‌؟,Pas Nini-ye Mā Kojāst?,So Where Is Our Baby?,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1382,no,NA,,,Appendix D
+OPW_0266,ی‍ک‌ راه‌ دور و دراز,Yek Rāh-e Dur va Derāz,"A Long, Long Road",ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1382,no,NA,,,Appendix D
+OPW_0267,ن‍م‍ک‍ی‌ و دی‍و,Namaki va Div,Namaki and the Demon,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1383,yes,2,,,Appendix D
+OPW_0268,م‍اه‌ خ‍ال‍ش‌ را از ک‍ج‍ا آورده‌ اس‍ت‌؟,Māh Khāl-ash rā az Kojā Āvardeh Ast?,Where Did the Moon Get Its Spot?,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1383,yes,3,چاپ دوباره در سال 1393 و 1394,Reprinted in 2014 and 2015 (1393 and 1394).,Appendix D
+OPW_0269,چ‍ی‌؟ ه‍ی‍چ‍ی‌!,Chi? Hichi!,What? Nothing!,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1384,no,NA,,,Appendix D
+OPW_0270,زراف‍ه‌ی‌ م‍ن‌ آب‍ی‌ اس‍ت‌,Zarāfeh-ye Man Ābi Ast,My Giraffe Is Blue,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1384,no,NA,,,Appendix D
+OPW_0271,ق‍ای‍م‌ م‍وش‍ک‌ ف‍ی‍ل‍ی,Ghāyem Mushak-e Fili,Elephant Hide-and-Seek,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1384,no,NA,,,Appendix D
+OPW_0272,س‍ای‍ه‌ای‌ زی‍ر م‍اه,Sāyeh-i Zir-e Māh,A Shadow Beneath the Moon,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1385,no,NA,,,Appendix D
+OPW_0273,پری چه کسی را با خود برد,Pari Che Kasi rā bā Khod Bord,Whom Did the Fairy Take Away?,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1385,no,NA,,,Appendix D
+OPW_0274,پ‍ش‍ت‌ آن‌ دی‍وار آب‍ی‌,Posht-e Ān Divār-e Ābi,Behind That Blue Wall,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1385,no,NA,,,Appendix D
+OPW_0275,اس‍ب‌ زی‍ب‍ای‌ م‍ن,Asb-e Zibā-ye Man,My Beautiful Horse,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1385,no,NA,,,Appendix D
+OPW_0276,با یک گل بهار نمی شود,Bā Yek Gol Bahār Nemishavad,One Flower Does Not Make Spring,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1386,yes,11,,,Appendix D
+OPW_0277,کرم سیاه,Kerm-e Siyāh,The Black Worm,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1386,no,NA,,,Appendix D
+OPW_0278,۱۰۰۰سال نگاه,Hezār Sāl Negāh,A Thousand Years of Looking,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1386,no,NA,,,Appendix D
+OPW_0279,قایم موشک و قایم مارمولک,Ghāyem Mushak va Ghāyem Mārmulak,Hide-and-Seek Mouse and Hide-and-Seek Lizard,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1388,no,NA,,,Appendix D
+OPW_0280,دو تا باد یک گردباد,"Do Tā Bād, Yek Gerdbād","Two Winds, One Tornado",ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1389,yes,2,چاپ دوم در سال 1393,Second edition in 2014 (1393).,Appendix D
+OPW_0281,پیشی بیا منو بخور,Pishi Biā Mano Bokhor,"Kitty, Come Eat Me",ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1389,no,NA,,,Appendix D
+OPW_0282,شهر آدمها شهر موشها,"Shahr-e Ādamhā, Shahr-e Mushhā","City of Humans, City of Mice",ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1389,no,NA,,,Appendix D
+OPW_0283,سنگ,Sang,Stone,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1390,no,NA,,,Appendix D
+OPW_0284,درخت,Derakht,Tree,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1390,no,NA,,,Appendix D
+OPW_0285,قابلمه,Ghāblameh,Cooking Pot,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1390,no,NA,,,Appendix D
+OPW_0286,ستاره‌ها چه کسی هستند؟,Setāreh-hā Che Kasi Hastand?,Who Are the Stars?,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1390,no,NA,,,Appendix D
+OPW_0287,چوپان دروغ نگو,Chupān Dorugh Nagu,"Shepherd, Don't Lie",ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1390,no,NA,,,Appendix D
+OPW_0288,ته ته ته چاه ننه قلی، ننه گلی و لحاف مخملی,"Tah-e Tah-e Tah-e Chāh-e Naneh Gholi, Naneh Goli va Lehāf-e Makhmali","Deep, Deep, Deep in the Well: Naneh Gholi, Naneh Goli, and the Velvet Quilt",ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1390,no,NA,,,Appendix D
+OPW_0289,قدم یازدهم,Ghadam-e Yāzdahom,The Eleventh Step,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1392,no,NA,,,Appendix D
+OPW_0290,چه حیوان خطرناکی,Che Heyvān-e Khatarnāki,What a Dangerous Animal!,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1393,no,NA,,,Appendix D
+OPW_0291,بالش کپله,Bālesh-e Kopoleh,The Chubby Pillow,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1393,no,NA,,,Appendix D
+OPW_0292,سوسکی داره یه بچه تو‌بقچه، توی طاقچه,"Suski Dāreh Ye Bacheh Tu Boghcheh, Tu-ye Tāghcheh",Little Beetle Has a Baby in a Bundle on the Shelf,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1393,yes,2,,,Appendix D
+OPW_0293,سوسکی خانم باغچه می‌خواد اطاق با طاقچه می‌خواد,"Suski Khānom Bāghcheh Mikhād, Otāgh bā Tāghcheh Mikhād","Lady Beetle Wants a Garden, Wants a Room with a Shelf",ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1393,yes,2,,,Appendix D
+OPW_0294,سوسکی خانم پرداره اگرچه شوهرداره,Suski Khānom Pardāreh Agarcheh Shohar Dāreh,Lady Beetle Has Wings Even Though She Has a Husband,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1393,yes,2,,,Appendix D
+OPW_0295,سوسکی و سیل و بارون موشی توی بیابون,Suski va Seil o Bārun-e Mushi Tu-ye Biābun,Beetle and Mouse Rain and Flood in the Desert,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1393,yes,2,,,Appendix D
+OPW_0296,توسرمای زمستون سوسکی و راز پنهون,"Tu Sarmā-ye Zemestun, Suski va Rāz-e Penhun",In Winter's Cold: Beetle and the Hidden Secret,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1393,yes,2,,,Appendix D
+OPW_0297,وای وای یک تله موش آقاموشه افتاده توش,"Vāy Vāy, Yek Taleh-Mush, Āghā Mushe Oftādeh Tush",Oh Dear! Mr. Mouse Has Fallen into a Mousetrap,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1393,yes,2,,,Appendix D
+OPW_0298,صدای پای بزغاله‌های سبز,Sedā-ye Pā-ye Bozghāleh-hā-ye Sabz,The Footsteps of the Green Kid Goats,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1393,no,NA,,,Appendix D
+OPW_0299,سایه‌ای زیر نور ماه,Sāyeh-i Zir-e Nur-e Māh,A Shadow Beneath the Moonlight,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1394,no,NA,,,Appendix D
+OPW_0300,بزبز زنگوله پا,Bozboz-e Zanguleh Pā,Bozboz Bell-Foot,official_translation,IA_0038,Sousan Taghdis,سوسن طاقدیس,1394,no,NA,,,Appendix D
+OPW_0301,بالای بالای بالا,Bālā-ye Bālā-ye Bālā,"Up, Up, Up Above",ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1395,no,NA,,,Appendix D
+OPW_0302,چرا خرس‌ها با هم می‌جنگند؟,Cherā Khers-hā bā Ham Mijangand?,Why Do Bears Fight Each Other?,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1395,no,NA,,,Appendix D
+OPW_0303,گیلی‌گیلی و آب‌بازی,Gili-Gili va Āb-Bāzi,Gili-Gili and Water Play,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1396,yes,2,,,Appendix D
+OPW_0304,گاو بزرگ بزرگ,Gāv-e Bozorg-e Bozorg,The Very Very Big Cow,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1396,yes,2,,,Appendix D
+OPW_0305,مجموعه‌ی چی شد، چی شد، این طوری شد؟,"Majmu'eh-ye Chi Shod, Chi Shod, In Tori Shod?",What Happened? What Happened? It Happened Like This!,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1396,no,NA,,,Appendix D
+OPW_0306,فرفری و فرفری و فرفری,Ferferi va Ferferi va Ferferi,Curly and Curly and Curly,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1397,no,NA,,,Appendix D
+OPW_0307,سایه‌ای که سر نداشت، دم نداشت، تن هم نداشت,"Sāyeh-i ke Sar Nadāsht, Dom Nadāsht, Tan Ham Nadāsht","The Shadow That Had No Head, No Tail, and No Body",ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1397,yes,2,,,Appendix D
+OPW_0308,یه خونه‌ی نقلی با یه عالمه مهمون : برگرفته از افسانه‌های کهن ایرانی،مهارت کمک به دیگران,Ye Khuneh-ye Noghli bā Ye Ālameh Mehmān,A Tiny House with a Whole Lot of Guests,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1397,no,NA,,,Appendix D
+OPW_0309,مامان و بابای کوچولو,Māmān va Bābā-ye Kuchulu,Little Mommy and Daddy,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1397,yes,2,این کتاب در سال‌های ۱۳۹۷- ۱۳۹۸ تجدید چاپ شده است.,This book was reprinted between 2018 and 2019 (1397 to 1398).,Appendix D
+OPW_0310,دریای من کو؟,Daryā-ye Man Ku?,Where Is My Sea?,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1397,no,NA,,,Appendix D
+OPW_0311,خیلی جدی,Kheili Jeddi,Very Serious,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1398,no,NA,,,Appendix D
+OPW_0312,گول گولاخین,Gul Gulākhin,Gul Gulakhin,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1399,no,NA,,,Appendix D
+OPW_0313,توپ سفید خال‌خالی قل می‌خورد,Tup-e Sefid-e Khāl-Khāli Ghol Mikhord,The White Polka-Dotted Ball Rolled Along,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1399,no,NA,,,Appendix D
+OPW_0314,او خواهرم است، خواهر خود خودم,"U Khāharam Ast, Khāhar-e Khod-e Khodam","She Is My Sister, My Very Own Sister",ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1399,no,NA,,,Appendix D
+OPW_0315,راستی راستی بخورمت؟,Rāsti Rāsti Bokhoramat?,Shall I Really Eat You?,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1399,no,NA,,,Appendix D
+OPW_0316,کرم من گمشده,Kerm-e Man Gom Shodeh,My Worm Is Lost,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1399,no,NA,,,Appendix D
+OPW_0317,هفت در باز,Haft Dar-e Bāz,Seven Open Doors,ai_literal_gloss,IA_0038,Sousan Taghdis,سوسن طاقدیس,1399,no,NA,,,Appendix D
+OPW_0318,اف‍س‍ان‍ه‌ داراب‌,Afsāneh-ye Dārāb,The Legend of Darab,official_translation,IA_0034,Sorour Katbi,سرور کتبی,1378,no,NA,,,Appendix D
+OPW_0319,ه‍ی‍س‌، ش‍ب‌ خ‍واب‍ی‍ده‌!,"Hiss, Shab Khābideh!","Shh, the Night Is Sleeping!",ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1383,yes,2,چاپ دوباره در سال 1393,Reprinted in 2014 (1393).,Appendix D
+OPW_0320,م‍ادرب‍زرگ‌ را در م‍اه‌ دی‍دم‌,Mādarbozorg rā dar Māh Didam,I Saw Grandmother in the Moon,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1384,no,NA,,,Appendix D
+OPW_0321,م‍وش‌ و م‍اه‍ی‌,Mush va Māhi,The Mouse and the Fish,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1384,no,NA,,,Appendix D
+OPW_0322,ق‍ص‍ه‌ه‍ای‌ ج‍اج‍ی‍م‌,Ghesseh-hā-ye Jājim,Jajim Stories,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1384,no,NA,,,Appendix D
+OPW_0323,سه تخم‌مرغ در یک سبد,Se Tokhm-e-Morgh dar Yek Sabad,Three Eggs in One Basket,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1385,no,NA,,,Appendix D
+OPW_0324,هیس...ساکت!,Hiss... Sāket!,Shh... Quiet!,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1386,yes,4,,,Appendix D
+OPW_0325,یک شب فرشته‌ای خوابید,Yek Shab Fereshteh-i Khābid,One Night an Angel Fell Asleep,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1386,no,NA,,,Appendix D
+OPW_0326,آسیاب بچرخ!,Āsiāb Becharkh!,"Turn, Mill, Turn!",ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1387,yes,2,,,Appendix D
+OPW_0327,خانم غوله به عروسی می رود,Khānom Ghuleh be Arusi Miravad,Mrs. Giant Goes to a Wedding,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1388,no,NA,,,Appendix D
+OPW_0328,پله‌بازی,Pelleh-Bāzi,Stair Games,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1383,yes,2,,,Appendix D
+OPW_0329,مورچه‌ی من,Murcheh-ye Man,My Ant,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1389,no,NA,,,Appendix D
+OPW_0330,پیرزن و لولوی آبی,Pirezan va Luluy-e Ābi,The Old Woman and the Blue Bogeyman,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1389,no,NA,,,Appendix D
+OPW_0331,ملاقه‌ی تنبل و ۶قصه‌ی دیگر,Malāgheh-ye Tanbal va 6 Ghesseh-ye Digar,The Lazy Ladle and Six Other Stories,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1390,yes,3,,,Appendix D
+OPW_0332,من فواره دارم,Man Favvāreh Dāram,I Have a Fountain,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1390,no,NA,,,Appendix D
+OPW_0333,جادوگر قطاری و ۶ قصه‌ی دیگر,Jādugar-e Ghatāri va 6 Ghesseh-ye Digar,The Train Wizard and Six Other Stories,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1390,yes,3,,,Appendix D
+OPW_0334,لحاف ننه‌سرما و ۶ قصه‌ی دیگر,Lehāf-e Naneh-Sarmā va 6 Ghesseh-ye Digar,Old Mother Winter's Quilt and Six Other Stories,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1390,yes,3,,,Appendix D
+OPW_0335,جیغ خارخاری و ۶ قصه ی دیگر,Jigh-e Khārkhāri va 6 Ghesseh-ye Digar,Scratchy Scream and Six Other Stories,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1390,no,NA,,,Appendix D
+OPW_0336,جیکم جیکم جیکان جیکان,Jikam Jikam Jikān Jikān,"Cheep Cheep, Chirp Chirp",ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1390,no,NA,,,Appendix D
+OPW_0337,باد فوت‌فوتی و ۶ قصه‌ی دیگر,Bād-e Fut-Futi va 6 Ghesseh-ye Digar,The Puff-Puff Wind and Six Other Stories,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1390,yes,3,,,Appendix D
+OPW_0338,عروسی مرغ پا کوتاه و ۶ قصه‌ی دیگر,Arusi-ye Morgh-e Pā-Kutāh va 6 Ghesseh-ye Digar,The Wedding of the Short-Legged Hen and Six Other Stories,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1390,yes,3,,,Appendix D
+OPW_0339,نامه‌ی پدر,Nāmeh-ye Pedar,Father's Letter,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1391,yes,4,,,Appendix D
+OPW_0340,این همه تلق و ملق,In Hameh Talaq o Malaq,All This Clatter and Clang,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1388,yes,3,,,Appendix D
+OPW_0341,غول عینکی و ۶ قصه‌ی دیگر,Ghul-e Eynaki va 6 Ghesseh-ye Digar,The Bespectacled Giant and Six Other Stories,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1390,yes,3,,,Appendix D
+OPW_0342,جنگلی با پاهای بلند و ۶ قصه‌ی دیگر,Jangali bā Pāhā-ye Boland va 6 Ghesseh-ye Digar,A Forest with Long Legs and Six Other Stories,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1390,yes,3,,,Appendix D
+OPW_0343,پری و غول گنده و ۶ قصه‌ی دیگر,Pari va Ghul-e Gondeh va 6 Ghesseh-ye Digar,The Fairy and the Big Giant and Six Other Stories,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1390,yes,3,,,Appendix D
+OPW_0344,شکلاتی، خرمالویی,"Shokolāti, Khormāluyi","Chocolate-Colored, Persimmon-Colored",ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1393,yes,2,,,Appendix D
+OPW_0345,دیوی که خانه می‌خورد,Divi ke Khāneh Mikhord,The Demon That Ate Houses,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1394,no,NA,,,Appendix D
+OPW_0346,من هم بازی!,Man Ham Bāzi!,"Me Too, Let's Play!",ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1394,yes,3,,,Appendix D
+OPW_0347,بیا توی تنگ,Biā Tu-ye Tong,Come into the Fishbowl,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1395,no,NA,,,Appendix D
+OPW_0348,اردکی به نام قات‌قات,Ordaki be Nām-e Ghāt-Ghāt,A Duck Named Quack-Quack,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1395,yes,2,,,Appendix D
+OPW_0349,پوتی کو,Puti Ku,Where Is Puti?,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1388,yes,2,,,Appendix D
+OPW_0350,به عروسی من بیا!,Be Arusi-ye Man Biā!,Come to My Wedding!,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1395,yes,2,,,Appendix D
+OPW_0351,درخت آلو,Derakht-e Ālu,The Plum Tree,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1387,yes,2,,,Appendix D
+OPW_0352,۳۱ قصه‌ی تصویری برای شهریور,31 Ghesseh-ye Tasviri Barāye Shahrivar,31 Picture Stories for Shahrivar,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1395,no,NA,به انگلیسی ترجمه شده است. مترجمان: سعید مادح خاکسار، سونیا برقانی، کیمیا برقانی,"Translated into English. Translators: Saeed Madah Khaksar, Sonia Barghani, and Kimia Barghani.",Appendix D
+OPW_0353,۳۱ قصه‌ی تصویری برای مرداد,31 Ghesseh-ye Tasviri Barāye Mordād,31 Picture Stories for Mordad,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1395,no,NA,به انگلیسی ترجمه شده است. مترجمان: سعید مادح خاکسار، سونیا برقانی، کیمیا برقانی,"Translated into English. Translators: Saeed Madah Khaksar, Sonia Barghani, and Kimia Barghani.",Appendix D
+OPW_0354,اسب شهزاده و ۶ قصه‌ی دیگر,Asb-e Shahzādeh va 6 Ghesseh-ye Digar,The Prince's Horse and Six Other Stories,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1390,yes,3,,,Appendix D
+OPW_0355,زیر نور ماه,Zir-e Nur-e Māh,Under the Moonlight,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1396,no,NA,,,Appendix D
+OPW_0356,بزغاله‌ای به نام قند عسل,Bozghāleh-i be Nām-e Ghand-e Asal,A Kid Goat Named Honey Sugar,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1395,yes,2,,,Appendix D
+OPW_0357,خانه‌ام چرا می‌پرد,Khāneh-am Cherā Miparad,Why Is My House Flying Away?,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1398,no,NA,,,Appendix D
+OPW_0358,کجا می‌روی نردبان؟ و قصه‌های دیگر,Kojā Miravi Nardebān? va Ghesseh-hā-ye Digar,"Where Are You Going, Ladder? and Other Stories",ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1399,no,NA,,,Appendix D
+OPW_0359,ات‍وب‍وس‌ ق‍رم‍ز,Otobus-e Ghermez,The Red Bus,ai_literal_gloss,IA_0034,Sorour Katbi,سرور کتبی,1382,yes,3,,,Appendix D
+OPW_0360,ف‍ان‍وس‌ آس‍م‍ان,Fānus-e Āsemān,The Sky Lantern,ai_literal_gloss,IA_0023,Mojgan Moshtagh,مژگان مشتاق,1375,no,NA,,,Appendix D
+OPW_0361,ش‍ت‍رم‍رغ‌ آوازخ‍وان,Shotormorgh-e Āvāzkhān,The Singing Ostrich,ai_literal_gloss,IA_0023,Mojgan Moshtagh,مژگان مشتاق,1383,no,NA,,,Appendix D
+OPW_0362,پ‍ن‍ج‍ره‌ای‌ ک‍ه‌ ب‍ه‌ آس‍م‍ان‌ ن‍زدی‍ک‌ اس‍ت,Panjereh-i ke be Āsemān Nazdik Ast,The Window Close to the Sky,ai_literal_gloss,IA_0023,Mojgan Moshtagh,مژگان مشتاق,1383,no,NA,,,Appendix D
+OPW_0363,خ‍ط گ‍م‌ ش‍ده,Khat-e Gom Shodeh,The Lost Line,ai_literal_gloss,IA_0023,Mojgan Moshtagh,مژگان مشتاق,1384,no,NA,,,Appendix D
+OPW_0364,اسرار شب‌های تاریک,Asrār-e Shabhā-ye Tārik,Secrets of Dark Nights,ai_literal_gloss,IA_0023,Mojgan Moshtagh,مژگان مشتاق,1388,yes,2,,,Appendix D
+OPW_0365,خراب‌کاری گرگ‌ها(ابراز احساسات),Kharābkāri-ye Gorg-hā (Ebrāz-e Ehsāsāt),The Wolves' Mischief (Expressing Emotions),ai_literal_gloss,IA_0023,Mojgan Moshtagh,مژگان مشتاق,1388,yes,3,,,Appendix D
+OPW_0366,جنجال بزرگ در زمستان سرد(گفت و گو),Janjāl-e Bozorg dar Zemestān-e Sard (Goft-o-Gu),The Great Commotion in the Cold Winter (Conversation),ai_literal_gloss,IA_0023,Mojgan Moshtagh,مژگان مشتاق,1388,yes,5,,,Appendix D
+OPW_0367,مهمان‌های عجیب(ارتباط موثر),Mehmān-hā-ye Ajib (Ertebāt-e Mo'asser),Strange Guests (Effective Communication),ai_literal_gloss,IA_0023,Mojgan Moshtagh,مژگان مشتاق,1388,yes,2,,,Appendix D
+OPW_0368,پسرک موفرفری,Pesarak-e Mu-Ferferi,The Curly-Haired Boy,ai_literal_gloss,IA_0023,Mojgan Moshtagh,مژگان مشتاق,1388,no,NA,,,Appendix D
+OPW_0369,سفر با تکه ابر,Safar bā Tekkeh Abr,A Journey with a Piece of Cloud,ai_literal_gloss,IA_0023,Mojgan Moshtagh,مژگان مشتاق,1389,no,NA,,,Appendix D
+OPW_0370,رویای ترسناک پرواز (رفع اضطراب),Royā-ye Tarsnāk-e Parvāz (Raf'-e Ezterāb),The Scary Dream of Flying (Overcoming Anxiety),ai_literal_gloss,IA_0023,Mojgan Moshtagh,مژگان مشتاق,1389,yes,5,,,Appendix D
+OPW_0371,ادسون آرانتس دوناسیمنتو و خرگوش هیمالیی‌اش,Edson Arantes do Nascimento va Khargush-e Himālayi-ash,Edson Arantes do Nascimento and His Himalayan Rabbit,ai_literal_gloss,IA_0014,Jamshid Khanian,جمشید خانیان,1398,no,NA,,,Appendix D
+OPW_0372,گفت‌وگوی جادوگر بزرگ با ملکه‌ی جزیره‌ی رنگ‌ها,Goft-o-Guy-e Jādugar-e Bozorg bā Malakeh-ye Jazireh-ye Ranghā,The Great Wizard's Conversation with the Queen of the Island of Colors,ai_literal_gloss,IA_0014,Jamshid Khanian,جمشید خانیان,1397,no,NA,,,Appendix D
+OPW_0373,امپراتور کوتوله‌ی سرزمین لی‌لی‌پوت,Emperātor-e Kutuleh-ye Sarzamin-e Lilliput,The Dwarf Emperor of Lilliput,official_translation,IA_0014,Jamshid Khanian,جمشید خانیان,1394,no,NA,,,Appendix D
+OPW_0374,یک جعبه پیتزا برای ذوزنقه‌ی کباب‌شده,Yek Jabeh Pitza Barāye Zozanagheh-ye Kabāb-Shodeh,A Pizza Box for the Grilled Trapezoid,ai_literal_gloss,IA_0014,Jamshid Khanian,جمشید خانیان,1391,yes,2,,,Appendix D
+OPW_0375,ب‍ل‍ب‍ل‌ ن‍وک‌ طلا و ب‍اغ‌ آرزوه‍ا,Bolbol-e Nok-Talā va Bāgh-e Ārezuhā,The Golden-Beaked Nightingale and the Garden of Wishes,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1371,yes,6,,,Appendix D
+OPW_0376,ب‍ه‌ دن‍ب‍ال‌ ب‍ه‍اره‌. زن‍ب‍ور ک‍وچ‍ول‍و چ‍ه‌ م‍ی‌خ‍واس‍ت,Be Donbāl-e Bahāreh. Zanbur-e Kuchulu Che Mikhāst,Looking for Spring: What Did the Little Bee Want?,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1371,yes,8,,,Appendix D
+OPW_0377,راز آواز,Rāz-e Āvāz,The Secret of the Song,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1375,yes,4,,,Appendix D
+OPW_0378,ق‍ص‍ه‌ م‍اه‌ م‍ه‍رب‍ان‌: ب‍ا ال‍ه‍ام‌ از ی‍ک‌ ق‍ص‍ه‌ خ‍ارج‍ی,Ghesseh-ye Māh-e Mehrabān,The Tale of the Kind Moon,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1375,no,NA,,,Appendix D
+OPW_0379,گ‍او ب‍ی‌رن‍گ,Gāv-e Bi-Rang,The Colorless Cow,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1381,yes,5,,,Appendix D
+OPW_0380,ق‍وق‍ول‌ خ‍ان‌ و ق‍ص‍ه‌ه‍ای‌ دی‍گ‍ر,Ghooghool Khān va Ghesseh-hā-ye Digar,Mr. Rooster and Other Stories,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1384,yes,13,,,Appendix D
+OPW_0381,پ‍ن‍ج‍ره‌ خ‍ان‍ه‌ آق‍ام‍وش‍ه‌ و ق‍ص‍ه‌ه‍ای‌ دی‍گ‍ر,Panjereh-ye Khāneh-ye Āghā Musheh va Ghesseh-hā-ye Digar,Mr. Mouse's House Window and Other Stories,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1384,yes,11,,,Appendix D
+OPW_0382,ق‍وری‌ غ‍م‍گ‍ی‍ن‌ و ق‍ص‍ه‌ه‍ای‌ دی‍گ‍ر,Ghuri-ye Ghamgin va Ghesseh-hā-ye Digar,The Sad Teapot and Other Stories,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1384,yes,11,,,Appendix D
+OPW_0383,چ‍را خ‍ورش‍ی‍د خ‍واب‌ م‍ان‍د؟ و ق‍ص‍ه‌ه‍ای‌ دی‍گ‍ر,Cherā Khorshid Khāb Mānd? va Ghesseh-hā-ye Digar,Why Did the Sun Oversleep? and Other Stories,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1384,yes,11,,,Appendix D
+OPW_0384,زبل و جادوگر موقرمز و قصه‌های دیگر,Zebel va Jādugar-e Mu-Ghermez va Ghesseh-hā-ye Digar,Clever One and the Red-Haired Wizard and Other Stories,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1385,yes,9,,,Appendix D
+OPW_0385,روزی‌ ک‍ه‌ از ه‍وا ن‍خ‍ود و ک‍ش‍م‍ش‌ ب‍اری‍د و ق‍ص‍ه‌ه‍ای‌ دی‍گ‍ر,Ruzi ke az Havā Nokhod va Keshmesh Bārid va Ghesseh-hā-ye Digar,The Day Chickpeas and Raisins Rained from the Sky and Other Stories,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1385,yes,9,,,Appendix D
+OPW_0386,ک‍چ‍ل‌ ش‍م‍ش‍ی‍ردار و ق‍ص‍ه‌ه‍ای‌ دی‍گ‍ر,Kachal-e Shamshir-Dār va Ghesseh-hā-ye Digar,The Bald Swordsman and Other Stories,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1385,yes,9,,,Appendix D
+OPW_0387,ک‍لاه‌ خ‍ان‍م‌ لاک‌ پ‍ش‍ت‌ و ق‍ص‍ه‌ه‍ای‌ دی‍گ‍ر,Kolāh-e Khānom Lāk-Posht va Ghesseh-hā-ye Digar,Mrs. Turtle's Hat and Other Stories,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1385,yes,9,,,Appendix D
+OPW_0388,الاغ‍ی‌ ک‍ه‌ ب‍س‍ت‍ن‍ی‌ دوس‍ت‌ داش‍ت‌ و ق‍ص‍ه‌ه‍ای‌ دی‍گ‍ر,Olāghi ke Bastani Dust Dāsht va Ghesseh-hā-ye Digar,The Donkey That Loved Ice Cream and Other Stories,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1385,yes,9,,,Appendix D
+OPW_0389,دی‍و خ‍ال‌ خ‍ال‍ی,Div-e Khāl-Khāli,The Spotted Demon,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1385,yes,6,,,Appendix D
+OPW_0390,ن‍ن‍ه‌ گ‍لاب‍ی,Naneh Golābi,Granny Pear,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1385,yes,7,,,Appendix D
+OPW_0391,جشن تولد قطار و قصه‌های دیگر,Jashn-e Tavallod-e Ghatār va Ghesseh-hā-ye Digar,The Train's Birthday Party and Other Stories,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1385,yes,9,,,Appendix D
+OPW_0392,عکس یادگاری خانم مارمولک و قصه‌های دیگر,Aks-e Yādgāri-ye Khānom Mārmulak va Ghesseh-hā-ye Digar,Mrs. Lizard's Souvenir Photo and Other Stories,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1385,yes,9,,,Appendix D
+OPW_0393,عروسی خانم جیر جیرک و قصه‌های دیگر,Arusi-ye Khānom Jir Jirak va Ghesseh-hā-ye Digar,Mrs. Cricket's Wedding and Other Stories,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1386,yes,9,,,Appendix D
+OPW_0394,اژده‍ا و آت‍ش‌ ده‍ان‍ش‌,Ezhdehā va Ātash-Dahānash,The Dragon and Its Fire-Breath,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1386,yes,4,,,Appendix D
+OPW_0395,دفترچه خاطرات یک کلاغ,Daftarchheh-ye Khāterāt-e Yek Kalāgh,A Crow's Diary,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1393,yes,2,,,Appendix D
+OPW_0396,جمعه‌های خاله کانگورو,Jomeh-hā-ye Khāleh Kānguru,Aunt Kangaroo's Fridays,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1395,no,NA,,,Appendix D
+OPW_0397,م‍غ‍ازه‌ دم‌ف‍روش‍ی‌ و ۴ ق‍ص‍ه‌ دی‍گ‍ر,Maghāzeh-ye Dom-Forushi va 4 Ghesseh-ye Digar,The Tail Shop and Four Other Stories,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1387,yes,9,,,Appendix D
+OPW_0398,موشی که می‌‌خواست پولدار شود,Mushi ke Mikhāst Puldār Shavad,The Mouse Who Wanted to Become Rich,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1397,no,NA,,,Appendix D
+OPW_0399,خانه‌ای که حرف می‌زد: ۳۰ قصه‌ی ایرانی از ادبیات کهن,Khāneh-i ke Harf Mizad: 30 Ghesseh-ye Irani az Adabiat-e Kohan,The House That Spoke: 30 Iranian Tales from Classical Literature,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1397,no,NA,,,Appendix D
+OPW_0400,حسن کچل و ماه پیشونی,Hasan Kachal va Māh Pishuni,Hasan the Bald and Moon-Forehead,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1398,no,NA,,,Appendix D
+OPW_0401,حسن‌کچل و چوپان‌دروغگو,Hasan Kachal va Chupān-e Dorughgu,Hasan the Bald and the Boy Who Cried Wolf,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1398,no,NA,,,Appendix D
+OPW_0402,حسن‌کچل و کدوقلقله‌زن,Hasan Kachal va Kadu Ghelgheleh-Zan,Hasan the Bald and Rolling Pumpkin,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1398,no,NA,,,Appendix D
+OPW_0403,حسن‌کچل و بزبز قندی,Hasan Kachal va Bozboz-e Ghandi,Hasan the Bald and Sugar-Goat Bozboz,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1398,no,NA,,,Appendix D
+OPW_0404,حسن کچل و قبای سنگی,Hasan Kachal va Ghabā-ye Sangi,Hasan the Bald and the Stone Robe,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1398,no,NA,,,Appendix D
+OPW_0405,حسن‌کچل و کله کدویی,Hasan Kachal va Kalleh-Kaduyi,Hasan the Bald and Pumpkin Head,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1398,no,NA,,,Appendix D
+OPW_0406,قصه‌های حسن‌کچل: سفرحسن کچل به قصه‌های شیرین ایرانی,Ghesseh-hā-ye Hasan Kachal: Safar-e Hasan Kachal be Ghesseh-hā-ye Shirin-e Irani,Tales of Hasan the Bald: Hasan the Bald's Journey into Sweet Iranian Tales,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1398,no,NA,,,Appendix D
+OPW_0407,پسری که دیو شد و شش افسانه‌ی دیگر از دریای اسمار,Pesari ke Div Shod va Shesh Afsāneh-ye Digar az Daryā-ye Asmār,The Boy Who Became a Demon and Six Other Legends from the Sea of Asmar,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1399,no,NA,بالای عنوان: افسانه‌های شیرین و پندآموز از هندوستان.,Above the title: Sweet and instructive folktales from India.,Appendix D
+OPW_0408,جادوگری در غار و نه افسانه‌ی دیگر از دریای اسمار,Jādugari dar Ghār va Noh Afsāneh-ye Digar az Daryā-ye Asmār,A Wizard in a Cave and Nine Other Legends from the Sea of Asmar,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1399,no,NA,بالای عنوان: افسانه‌های شیرین و پندآموز از هندوستان.,Above the title: Sweet and instructive folktales from India.,Appendix D
+OPW_0409,دختری در صندوق و هشت افسانه‌ی دیگر از دریای اسمار,Dokhtari dar Sandogh va Hasht Afsāneh-ye Digar az Daryā-ye Asmār,A Girl in a Chest and Eight Other Legends from the Sea of Asmar,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1399,no,NA,بالای عنوان: افسانه‌های شیرین و پندآموز از هندوستان.,Above the title: Sweet and instructive folktales from India.,Appendix D
+OPW_0410,سیمرغ و پادشاه مارها و پنج افسانه‌ی دیگر از دریای اسمار,Simorgh va Pādeshāh-e Mārhā va Panj Afsāneh-ye Digar az Daryā-ye Asmār,Simorgh and the King of Serpents and Five Other Legends from the Sea of Asmar,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1399,no,NA,بالای عنوان: افسانه‌های شیرین و پندآموز از هندوستان.,Above the title: Sweet and instructive folktales from India.,Appendix D
+OPW_0411,ترنجی پر از جواهر و هشت افسانه‌ی دیگر از دریای اسمار,Toranji Por az Javāher va Hasht Afsāneh-ye Digar az Daryā-ye Asmār,A Citron Full of Jewels and Eight Other Legends from the Sea of Asmar,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1399,no,NA,بالای عنوان: افسانه‌های شیرین و پندآموز از هندوستان.,Above the title: Sweet and instructive folktales from India.,Appendix D
+OPW_0412,پسر شیرسوار و نه افسانه دیگر از دریای اسمار,Pesar-e Shir-Savār va Noh Afsāneh-ye Digar az Daryā-ye Asmār,The Lion-Riding Boy and Nine Other Legends from the Sea of Asmar,ai_literal_gloss,IA_0024,Mojgan Sheikhi,مژگان شیخی,1399,no,NA,بالای عنوان: افسانه‌های شیرین و پندآموز از هندوستان.,Above the title: Sweet and instructive folktales from India.,Appendix D
+OPW_0413,ق‍ه‍وه‌ای‌,Ghahveh'i,Brown,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1383,no,NA,,,Appendix D
+OPW_0414,ع‍م‍ه‌ ن‍ارن‍ج‍ی,Ammeh Nārenji,Aunt Orange,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1384,no,NA,,,Appendix D
+OPW_0415,دس‍ت‌ پ‍خ‍ت‌ خ‍ورش‍ی‍د,Dast-Pokht-e Khorshid,Sun-Cooked,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1384,no,NA,,,Appendix D
+OPW_0416,م‍ام‍ان‌ ق‍رم‍زه‌، ب‍اب‍ا س‍ب‍زه,"Māmān-e Ghermezeh, Bābā-ye Sabzeh","Red Mommy, Green Daddy",ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1384,no,NA,,,Appendix D
+OPW_0417,یه روز یه میمونه,Ye Ruz Ye Meymuneh,One Day There Was a Monkey,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1386,no,NA,,,Appendix D
+OPW_0418,قشنگ‌ترین جا,Ghashangtarin Jā,The Most Beautiful Place,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1386,no,NA,,,Appendix D
+OPW_0419,لی‌لی حوضک,Lili Howzak,Lili Howzak,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1386,no,NA,,,Appendix D
+OPW_0420,نگهبان خورشید,Negahbān-e Khorshid,Guardian of the Sun,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1386,no,NA,,,Appendix D
+OPW_0421,غول بیابونی,Ghul Biābuni,The Desert Giant,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1388,no,NA,,,Appendix D
+OPW_0422,قصه‌‌ی خانه‌ای که سطل آشغال نداشت,Ghesseh-ye Khāneh-i ke Satl-e Āshghāl Nadāsht,The Story of the House That Had No Trash Can,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1386,yes,3,,,Appendix D
+OPW_0423,آقا خروسه,Āghā Khoruseh,Mr. Rooster,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1389,no,NA,,,Appendix D
+OPW_0424,بزغاله‬‏‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬,Bozghāleh,The Kid Goat,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1390,no,NA,,,Appendix D
+OPW_0425,سنگ,Sang,Stone,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1390,no,NA,,,Appendix D
+OPW_0426,درخت,Derakht,Tree,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1390,no,NA,,,Appendix D
+OPW_0427,قابلمه,Ghāblemeh,Cooking Pot,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1390,no,NA,,,Appendix D
+OPW_0428,پوست پسته,Pust-e Pesteh,Pistachio Shell,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1389,yes,3,,,Appendix D
+OPW_0429,چکه‏‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬,Chekkeh,The Drop,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1391,no,NA,,,Appendix D
+OPW_0430,قصه‌های علی و گلی,Ghesseh-hā-ye Ali va Goli,Tales of Ali and Goli,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1387,yes,2,,,Appendix D
+OPW_0431,ناروال نهنگ تک شاخ,"Nārvāl, Nahang-e Tak-Shākh","Narwhal, the Unicorn Whale",ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1392,yes,2,,,Appendix D
+OPW_0432,پری دریایی,Pari-ye Daryāyi,The Mermaid,official_translation,IA_0016,Laleh Jafari,لاله جعفری,1392,no,NA,,,Appendix D
+OPW_0433,بیب بیب قصه,Bib Bib Ghesseh,Beep-Beep Story,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1392,no,NA,,,Appendix D
+OPW_0434,جوراب پشمی سوراخ,Jurāb-e Pashmi-ye Surākh,The Holey Wool Sock,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1392,no,NA,,,Appendix D
+OPW_0435,خانم‌ غول و آقا غول و ده قصه‌ی دیگر,Khānom Ghul va Āghā Ghul va Dah Ghesseh-ye Digar,Mrs. Giant and Mr. Giant and Ten Other Stories,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1393,no,NA,,,Appendix D
+OPW_0436,لنگه جوراب قرمز,Lengeh Jurāb-e Ghermez,The Red Sock Half,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1393,no,NA,,,Appendix D
+OPW_0437,داستان‌های شاهزاده خانم ها برای بچه ها,Dāstān-hā-ye Shāhzādeh Khānom-hā Barāye Bacheh-hā,Princess Stories for Children,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1393,yes,2,,,Appendix D
+OPW_0438,درختی که از تاریکی می ترسید,Derakhti ke az Tāriki Mitarsid,The Tree That Was Afraid of the Dark,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1394,no,NA,,,Appendix D
+OPW_0439,قصه‌های خرس کوچولو,Ghesseh-hā-ye Khers-e Kuchulu,Little Bear Stories,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1394,no,NA,,,Appendix D
+OPW_0440,آش مامان سفیده و بابا سفیده,Āsh-e Māmān Sefideh va Bābā Sefideh,Mommy White's Soup and Daddy White,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1394,yes,2,این کتاب در سال ۱۳۹۸ تجدید چاپ شده است.,This book was reprinted in 2019 (1398).,Appendix D
+OPW_0441,قرمزی,Ghermezi,Redness / Red,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1394,yes,3,,,Appendix D
+OPW_0442,کجایی مامان، کجایی بابا؟,"Kojāyi Māmān, Kojāyi Bābā?","Where Are You, Mommy? Where Are You, Daddy?",ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1395,yes,2,,,Appendix D
+OPW_0443,جیک جیکی!,Jik Jiki!,Chirpy-Chirpy!,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1395,no,NA,,,Appendix D
+OPW_0444,نشانه‌ی برق برقی!,Neshāneh-ye Bargh Barghi!,The Sparkly Sign!,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1395,no,NA,,,Appendix D
+OPW_0445,بوس باد,Bus-e Bād,The Wind's Kiss,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1395,no,NA,,,Appendix D
+OPW_0446,نه، تو نیا!,"Na, To Nayā!","No, Don't Come!",ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1395,no,NA,,,Appendix D
+OPW_0447,من تشنمه,Man Teshnameh,I'm Thirsty,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1395,no,NA,,,Appendix D
+OPW_0448,نه، نمی‌خوام!,"Na, Nemikhām!","No, I Don't Want It!",ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1395,no,NA,,,Appendix D
+OPW_0449,منم بازی!,Manam Bāzi!,"Me Too, I Want to Play!",ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1395,no,NA,,,Appendix D
+OPW_0450,من یک موش هستم!,Man Yek Mush Hastam!,I Am a Mouse!,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1395,no,NA,,,Appendix D
+OPW_0451,بیبو بیبو,Bibu Bibu,Beebo Beebo,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1388,yes,2,,,Appendix D
+OPW_0452,غول تاریکی,Ghul-e Tāriki,The Giant of Darkness,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1395,no,NA,,,Appendix D
+OPW_0453,کیه، چیه؟,"Kiyeh, Chieh?","Who Is It, What Is It?",ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1395,no,NA,,,Appendix D
+OPW_0454,وای این که فسقلی نیست,Vāy In ke Fesgheli Nist,Oh! This One Isn't Tiny,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1395,no,NA,,,Appendix D
+OPW_0455,عروسی زن عمو عنکبوت,Arusi-ye Zan Amu Ankabut,Aunt Spider's Wedding,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1395,no,NA,,,Appendix D
+OPW_0456,من نمیام بوق‌وحش!,Man Nemiyām Bugh-e-Vahsh!,"I'm Not Coming, Wild Horn!",ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1396,no,NA,,,Appendix D
+OPW_0457,بوی خوشمزه‌ی آدم‌خانم,Buy-e Khoshmazeh-ye Ādam Khānom,The Delicious Smell of Lady Human,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1396,no,NA,,,Appendix D
+OPW_0458,دوست داری جغد باشی؟,Dust Dāri Joghd Bāshi?,Would You Like to Be an Owl?,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1396,yes,2,,,Appendix D
+OPW_0459,دوست‌داری نهنگ باشی؟,Dust Dāri Nahang Bāshi?,Would You Like to Be a Whale?,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1396,yes,2,,,Appendix D
+OPW_0460,دوست داری پنگوین باشی؟,Dust Dāri Panguan Bāshi?,Would You Like to Be a Penguin?,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1396,yes,2,,,Appendix D
+OPW_0461,اومدیم مامان! اومدیم بابا!,Umadim Māmān! Umadim Bābā!,"We're Coming, Mommy! We're Coming, Daddy!",ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1396,no,NA,,,Appendix D
+OPW_0462,سبزه خانم,Sabzeh Khānom,Lady Green,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1396,no,NA,,,Appendix D
+OPW_0463,درخت توت,Derakht-e Tut,The Mulberry Tree,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1396,no,NA,,,Appendix D
+OPW_0464,موی کجکی,Muy-e Kajaki,Crooked Hair,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1396,no,NA,,,Appendix D
+OPW_0465,بچه آخری,Bacheh-ye Ākhari,The Last Child,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1396,no,NA,,,Appendix D
+OPW_0466,پسته‌ی خندان,Pesteh-ye Khandān,The Smiling Pistachio,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1396,no,NA,,,Appendix D
+OPW_0467,قاشق چایخوری,Ghāshogh-e Chāykhori,The Teaspoon,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1397,no,NA,,,Appendix D
+OPW_0468,ابر باسواد,Abr-e Bāsavād,The Educated Cloud,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1397,no,NA,,,Appendix D
+OPW_0469,ادب‌خان,Adab Khān,Mr. Manners,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1397,no,NA,,,Appendix D
+OPW_0470,اگر آب نبود,Agar Āb Nabud,If There Were No Water,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1397,no,NA,,,Appendix D
+OPW_0471,بوی باد,Buy-e Bād,The Smell of the Wind,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1397,no,NA,,,Appendix D
+OPW_0472,پیشی کاغذی,Pishi-ye Kāghazi,The Paper Kitty,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1397,no,NA,,,Appendix D
+OPW_0473,تاب‌بازی بچه کلاغ,Tāb-Bāzi-ye Bacheh Kalāgh,Baby Crow's Swing Game,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1397,no,NA,,,Appendix D
+OPW_0474,سلام مامان! سلام بابا!,Salām Māmān! Salām Bābā!,Hello Mommy! Hello Daddy!,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1397,no,NA,,,Appendix D
+OPW_0475,خاله گوسفندها,Khāleh Gosfandhā,Sheep's Aunt,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1397,no,NA,,,Appendix D
+OPW_0476,پولیچو ترسناکه,Pulichu Tarsnākeh,Pulichu Is Scary,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1397,no,NA,,,Appendix D
+OPW_0477,دوربین کوچولو,Durbin-e Kuchulu,The Little Camera,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1397,no,NA,,,Appendix D
+OPW_0478,فسقلی و کیک گنده,Fesgheli va Keyk-e Gondeh,Tiny and the Giant Cake,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1397,no,NA,,,Appendix D
+OPW_0479,لک‌لک,Lak-Lak,The Stork,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1397,no,NA,,,Appendix D
+OPW_0480,غاغالی بزغاله,Ghāghāli Bozghāleh,The Bleating Kid Goat,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1397,no,NA,,,Appendix D
+OPW_0481,سنجاقک,Sanjāghak,Dragonfly,official_translation,IA_0016,Laleh Jafari,لاله جعفری,1397,no,NA,,,Appendix D
+OPW_0482,دردونه خانم و جیرجیری,Dorduneh Khānom va Jirjiri,Lady Darling and Chirpy,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1397,no,NA,,,Appendix D
+OPW_0483,ماکار شجاع,Mākār-e Shojā',Brave Makar,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1397,no,NA,,,Appendix D
+OPW_0484,افسانه‌ی غول دست کج و چهار افسانه‌ی دیگر,Afsāneh-ye Ghul-e Dast Kaj va Chahār Afsāneh-ye Digar,The Legend of the Crooked-Handed Giant and Four Other Legends,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1397,no,NA,,,Appendix D
+OPW_0485,چراغ جادو و اژدهای دندان‌داغ,Cherāgh-e Jādu va Ezhdehā-ye Dandān-Dāgh,The Magic Lamp and the Hot-Toothed Dragon,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1398,no,NA,,,Appendix D
+OPW_0486,آدو و جادوگر بی جادو,Ādu va Jādugar-e Bi-Jādu,Adu and the Magicless Wizard,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1398,no,NA,,,Appendix D
+OPW_0487,خیاطی که خانه دوخت,Khayyāti ke Khāneh Dukht,The Tailor Who Sewed a House,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1398,no,NA,,,Appendix D
+OPW_0488,قصه‌های نی‌نی آدم,Ghesseh-hā-ye Nini Ādam,Baby Adam Stories,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1398,no,NA,,,Appendix D
+OPW_0489,نی‌نی آدم و نی‌نی‌ خرسی,Nini Ādam va Nini Khersi,Baby Adam and Baby Bear,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1398,no,NA,,,Appendix D
+OPW_0490,نی‌نی‌آدم و نی‌نی موشی,Nini Ādam va Nini Mushi,Baby Adam and Baby Mouse,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1398,no,NA,,,Appendix D
+OPW_0491,غول دوشاخ و دختر گیس بلند,Ghul-e Do Shākh va Dokhtar-e Gis Boland,The Two-Horned Giant and the Long-Haired Girl,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1398,no,NA,,,Appendix D
+OPW_0492,نی‌نی آدم و نی‌نی فیلی,Nini Ādam va Nini Fili,Baby Adam and Baby Elephant,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1398,no,NA,,,Appendix D
+OPW_0493,مسافر کیه؟,Mosāfer Kiyeh?,Who Is the Traveler?,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1399,no,NA,,,Appendix D
+OPW_0494,می‌گردم بازی,Migardam Bāzi,"""Looking for"" Game",ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1399,no,NA,,,Appendix D
+OPW_0495,راستکی یا دروغکی,Rāstaki yā Dorughaki,For Real or Pretend?,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1399,no,NA,,,Appendix D
+OPW_0496,قایم شو تا پیدات کنم!,Ghāyem Sho Tā Peydāt Konam!,Hide So I Can Find You!,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1399,no,NA,,,Appendix D
+OPW_0497,خبر خوب,Khabar-e Khub,Good News,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1399,no,NA,,,Appendix D
+OPW_0498,خاله فرفری و قلقلی,Khāleh Ferferi va Ghelgheli,Aunt Curly and Roundy,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1399,no,NA,,,Appendix D
+OPW_0499,قلمبه قلمبه,Gholombeh Gholombeh,Lumpy-Bumpy,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1399,no,NA,,,Appendix D
+OPW_0500,بندی بندی,Bandi Bandi,Stripey-Stripey,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1399,no,NA,,,Appendix D
+OPW_0501,قرقری,Ghergheri,Grumbly,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1399,no,NA,,,Appendix D
+OPW_0502,وای وایی جون,Vāy Vāyi Jun,"Oh Dear, My Dear!",ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1399,no,NA,,,Appendix D
+OPW_0503,رینگی رینگی,Ringi Ringi,Ringy Ringy,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1399,no,NA,,,Appendix D
+OPW_0504,جیلیز ویلیزی,Jiliz Vilizi,Jiliz Vilizi,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1399,no,NA,,,Appendix D
+OPW_0505,چشم بادمجانی‌ها,Cheshm Bādemjāni-hā,The Eggplant Eyes,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1399,no,NA,,,Appendix D
+OPW_0506,چوم چوم,Chum Chum,Chum Chum,ai_literal_gloss,IA_0016,Laleh Jafari,لاله جعفری,1399,no,NA,,,Appendix D
+OPW_0507,آقا رنگی و گربه ناقلا ،یا، این جوری بود که اون جوری شد,Āghā Rangi va Gorbeh-ye Nāgholā,"Mr. Colorful and the Naughty Cat, or, How It Turned Out That Way",ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1384,yes,2,,,Appendix D
+OPW_0508,اگر زمین مثل سیب‌زمینی چروکیده شود!,Agar Zamin Mesl-e Sibzamini Chorukideh Shavad!,What If the Earth Wrinkled Like a Potato?,ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1398,no,NA,,,Appendix D
+OPW_0509,با کتلت‌ها شوخی نکن!,Bā Kotlet-hā Shukhi Nakon!,Don't Joke with the Cutlets!,ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1398,no,NA,,,Appendix D
+OPW_0510,بشو و نشو,Besho va Nasho,Become and Don't Become,ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1394,no,NA,,,Appendix D
+OPW_0511,بفرمایید پیراشکی، شیمپالو!,"Befarmāyid Pirāshki, Shimpālu!","Have a Doughnut, Shimpalu!",ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1393,no,NA,,,Appendix D
+OPW_0512,ب‍ن‌ب‍س‍ت‌ ح‍ق‍ی‍ق‍ت,Bonbast-e Haghighat,Dead End of Truth,ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1378,no,NA,,,Appendix D
+OPW_0513,به دنبال بیتا,Be Donbāl-e Bitā,In Search of Bita,ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1378,no,NA,,,Appendix D
+OPW_0514,پری نازه دست درازه,Pari Nāzeh Dast Derāzeh,Pretty Fairy Long-Arms,ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1388,yes,2,,,Appendix D
+OPW_0515,پی تی کو ... پی تی کو و دو داستان دیگر,Pi Ti Ku... Pi Ti Ku va Do Dāstān-e Digar,Pi-Ti-Ku Pi-Ti-Ku and Two Other Stories,ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1391,yes,4,,,Appendix D
+OPW_0516,چه بویی داشت جوراب شیمپالو!,Che Bu'i Dāsht Jurāb-e Shimpālu!,What a Smell Shimpalu's Sock Had!,ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1393,no,NA,,,Appendix D
+OPW_0517,خاله شمسی کجاست، شیمپالو!,"Khāleh Shamsi Kojāst, Shimpālu!","Where Is Aunt Shamsi, Shimpalu?",ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1393,no,NA,,,Appendix D
+OPW_0518,خواننده‌ی نسل جوان، شیمپالو!,"Khānandeh-ye Nasl-e Javān, Shimpālu!","Shimpalu, Singer of the Young Generation!",ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1393,no,NA,,,Appendix D
+OPW_0519,دنیا را بلرزون کوتی کوتی,"Donyā rā Belarzun, Kuti Kuti","Shake the World, Kuti Kuti!",ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1393,yes,2,این کتاب در سال ۱۳۹۸ تجدید چاپ شده است.,This book was reprinted in 2019 (1398).,Appendix D
+OPW_0520,دیو دیگ به سر یا اینجوری بود که اونجوری شد,Div-e Dig-be-Sar yā Injuri Bud ke Unjuri Shod,"The Pot-Headed Demon, or How It Turned Out That Way",ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1392,yes,3,,,Appendix D
+OPW_0521,سرما نخوری کوتی کوتی,"Sarmā Nakhori, Kuti Kuti","Don't Catch a Cold, Kuti Kuti",ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1393,no,NA,,,Appendix D
+OPW_0522,سنگ‌های آرزو,Sang-hā-ye Ārezu,The Wish Stones,ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1385,yes,11,,,Appendix D
+OPW_0523,س‍ی‍ب‌ س‍رخ‌ س‍وس‍ن‌. ق‍طار زرد م‍زدک‌. س‍وت‌ س‍ف‍ی‍د س‍ام‍ان,"Sib-e Sorkh-e Susan, Ghatār-e Zard-e Mazdak, Sut-e Sefid-e Sāmān","Susan's Red Apple, Mazdak's Yellow Train, Saman's White Whistle",ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1383,no,NA,,,Appendix D
+OPW_0524,شام سرد شد کوتی کوتی,"Shām Sard Shod, Kuti Kuti","Dinner Got Cold, Kuti Kuti",ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1396,no,NA,,,Appendix D
+OPW_0525,عید شما مبارک، شیمپالو!,"Eid-e Shomā Mobārak, Shimpālu!","Happy Holiday, Shimpalu!",ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1393,no,NA,,,Appendix D
+OPW_0526,غذایی خوش‌مزه برای شیمپالو!,Ghazāyi Khoshmazeh Barāye Shimpālu!,A Tasty Meal for Shimpalu!,ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1393,no,NA,,,Appendix D
+OPW_0527,قصه درختی که خوابش می‌آمد,Ghesseh-ye Derakhti ke Khābesh Miāmad,The Story of the Tree That Was Sleepy,ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1393,yes,2,,,Appendix D
+OPW_0528,کلاغ بی نمک نخور، شیمپالو!,"Kalāgh-e Bi Namak Nakhor, Shimpālu!","Don't Eat the Bland Crow, Shimpalu!",ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1393,no,NA,,,Appendix D
+OPW_0529,ل‍ول‍وی‌ زی‍ب‍ای‌ ق‍ص‍ه‌گ‍و,Luluy-e Zibā-ye Ghessehgu,The Beautiful Storytelling Bogeyman,ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1379,no,NA,,,Appendix D
+OPW_0530,موش سر به هوا,Mush-e Sar be Havā,The Scatterbrained Mouse,ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1398,no,NA,,,Appendix D
+OPW_0531,هدیه خیس,Hadiyeh-ye Khis,The Wet Gift,ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1395,no,NA,,,Appendix D
+OPW_0532,ه‍م‍ان‌ ل‍ن‍گ‍ه‌ ک‍ف‍ش‌ ب‍ن‍ف‍ش,Hamān Lengeh Kafsh-e Banafsh,That Same Purple Shoe,ai_literal_gloss,IA_0009,Farhad Hassanzadeh,فرهاد حسن‌زاده,1382,yes,3,,,Appendix D
+OPW_0533,نبرد با خیون‌ها: حماسه‌ی ۱۰؛ لهراسپ، گشتاسپ و ارجاسپ خیون,"Nabard bā Khiyunhā: Hamāseh-ye 10; Lohrasp, Goshtasp and Arjasp Khiyun","Battle with the Khyons: Epic 10; Lohrasp, Goshtasp and Arjasp the Khyon",ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1393,no,NA,اقتباس از شاهنامه,Adapted from the Shahnameh.,Appendix D
+OPW_0534,نبرد دوازده رخ,Nabard-e Davāzdah Rokh,The Battle of the Twelve Champions,official_translation,IA_0006,Arman Arian,آرمان آرین,1394,no,NA,اقتباس از شاهنامه,Adapted from the Shahnameh.,Appendix D
+OPW_0535,نبردهای عاشقانه: حماسه‌ی ۸ اکوان و رستم؛ بیژن و منیژه,"Nabardhā-ye Āsheghāneh: Hamāseh-ye 8 Akvan va Rostam, Bijan va Manijeh","Love Battles: Epic 8; Akvan and Rostam, Bijan and Manijeh",ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1393,no,NA,اقتباس از شاهنامه,Adapted from the Shahnameh.,Appendix D
+OPW_0536,نخستین انقلاب تاریخ,Nokhostin Enghelāb-e Tārikh,The First Revolution in History,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1393,no,NA,,,Appendix D
+OPW_0537,هفت فرمانروا,Haft Farmānravā,Seven Rulers,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1393,no,NA,,,Appendix D
+OPW_0538,هنگامه‌ی هماون,Hengāmeh-ye Hamāvan,The Tumult of Hamavan,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1393,no,NA,اقتباس از شاهنامه,Adapted from the Shahnameh.,Appendix D
+OPW_0539,کابوس باغ سیاه,Kābus-e Bāgh-e Siyāh,Nightmare of the Black Garden,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1390,no,NA,,,Appendix D
+OPW_0540,فرمانروای سرتاسر زمین,Farmānravā-ye Sartāsar-e Zamin,Ruler of the Entire Earth,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1394,no,NA,اقتباس از شاهنامه,Adapted from the Shahnameh.,Appendix D
+OPW_0541,فرصت‌های تباه شده,Forsat-hā-ye Tabāh Shodeh,Wasted Opportunities,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1394,no,NA,,,Appendix D
+OPW_0542,سوار بر اهریمن,Savār bar Ahriman,Riding Ahriman,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1393,no,NA,اقتباس از شاهنامه,Adapted from the Shahnameh.,Appendix D
+OPW_0543,سرآغاز یک پهلوان: منوچهر شاه و زال خردمند,Sarāghāz-e Yek Pahlevān: Manuchehr Shāh va Zāl-e Kheradmand,The Beginning of a Hero: King Manuchehr and Wise Zal,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1391,no,NA,اقتباس از شاهنامه,Adapted from the Shahnameh.,Appendix D
+OPW_0544,سرآغاز فرزندان ساسان,Sarāghāz-e Farzandān-e Sāsān,The Beginning of the Children of Sasan,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1393,no,NA,اقتباس از شاهنامه,Adapted from the Shahnameh.,Appendix D
+OPW_0545,ستمگر می آید!,Setamgar Miāyad!,The Tyrant Is Coming!,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1393,no,NA,اقتباس از شاهنامه,Adapted from the Shahnameh.,Appendix D
+OPW_0546,سپید بال,Sepid Bāl,White Wing,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1396,no,NA,,,Appendix D
+OPW_0547,سپنتامینو,Sepentamino,Sepentamino,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1388,no,NA,,,Appendix D
+OPW_0548,سپیتمان,Sepitmān,Spitaman,official_translation,IA_0006,Arman Arian,آرمان آرین,1388,yes,2,,,Appendix D
+OPW_0549,رویای باغ سپید,Royā-ye Bāgh-e Sepid,Dream of the White Garden,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1390,no,NA,,,Appendix D
+OPW_0550,روزگار مرگ دانایان,Rouzgār-e Marg-e Dānāyān,The Age of the Death of the Wise,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1394,no,NA,اقتباس از شاهنامه,Adapted from the Shahnameh.,Appendix D
+OPW_0551,رستم وارد می‌شود!,Rostam Vāred Mishavad!,Rostam Enters!,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1393,no,NA,,,Appendix D
+OPW_0552,داستان مازندران: رستم و کیکاووس ۱,Dāstān-e Māzandarān: Rostam va Keykāvus 1,The Mazandaran Tale: Rostam and Kaykavus I,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1393,no,NA,اقتباس از شاهنامه,Adapted from the Shahnameh.,Appendix D
+OPW_0553,داستان مارها,Dāstān-e Mārhā,The Story of the Serpents,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1393,no,NA,اقتباس از شاهنامه,Adapted from the Shahnameh.,Appendix D
+OPW_0554,داستان سمنگان,Dāstān-e Samangān,The Story of Samangan,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1393,no,NA,اقتباس از شاهنامه,Adapted from the Shahnameh.,Appendix D
+OPW_0555,حماسه‌ی مرد رویین‌تن,Hamāseh-ye Mard-e Ruyintan,Epic of the Invulnerable Man,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1394,no,NA,اقتباس از شاهنامه,Adapted from the Shahnameh.,Appendix D
+OPW_0556,تاریک روشنا,Tārik Roshanā,Dark Light,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1393,no,NA,,,Appendix D
+OPW_0557,پیروزی بر دیوها,Piruzi bar Divhā,Victory over the Demons,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1393,no,NA,اقتباس از شاهنامه,Adapted from the Shahnameh.,Appendix D
+OPW_0558,پتش خوآرگر:حماسه؛ سرآغاز,Patesh Khuārgar: Hamāseh; Sarāghāz,Patesh Khwargar: The Epic; The Beginning,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1394,yes,2,,,Appendix D
+OPW_0559,پتش خوآرگر۲: مردی از تبار اژدها,Patesh Khuārgar 2: Mardi az Tabār-e Ezhdehā,Patesh Khwargar 2: A Man of Dragon Blood,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1395,no,NA,,,Appendix D
+OPW_0560,پتش خوآرگر ۳‏ : بر بنیادهای هستی‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬,Patesh Khuārgar 3: Bar Bonyādhā-ye Hasti,Patesh Khwargar 3: Upon the Foundations of Existence,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1396,no,NA,,,Appendix D
+OPW_0561,پایان جهان پهلوان: رستم و شغاد,Pāyān-e Jahān Pahlavān: Rostam va Sheghād,The End of the Champion of the World: Rostam and Shaghad,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1394,no,NA,اقتباس از شاهنامه,Adapted from the Shahnameh.,Appendix D
+OPW_0562,پ‍ارس‍ی‍ان‌ و م‍ن‌ «راز ک‍وه‌ پ‍رن‍ده‌» (رستم دستان),Pārsiyān va Man: Rāz-e Kuh-e Parandeh (Rostam Dastān),Persians and I: The Secret of Bird Mountain (Rostam the Hero),ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1383,yes,7,,,Appendix D
+OPW_0563,پ‍ارس‍ی‍ان‌ و م‍ن‌,Pārsiyān va Man,Persians and I,official_translation,IA_0006,Arman Arian,آرمان آرین,1385,yes,15,جلد اول و سوم این کتاب در سال‌های ۱۳۸۴-۱۳۹۸ تجدید چاپ شده است.,Volumes 1 and 3 of this set were reprinted between 2005 and 2019 (1384 to 1398).,Appendix D
+OPW_0564,پادشاه رزم و بزم,Pādshāh-e Razm o Bazm,King of War and Feast,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1393,no,NA,اقتباس از شاهنامه,Adapted from the Shahnameh.,Appendix D
+OPW_0565,بوف کر و چند داستان دیگر,Buf-e Kar va Chand Dāstān-e Digar,The Deaf Owl and Several Other Stories,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1397,no,NA,,,Appendix D
+OPW_0566,افسون‌نامه,Afsun-Nāmeh,Book of Enchantments,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1390,no,NA,,,Appendix D
+OPW_0567,اشوزدنگهه,Ashuzadangeh,Ashuzadangeh,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1393,yes,7,,,Appendix D
+OPW_0568,از هاماوران تا آسمان,Az Hāmāvarān tā Āsemān,From Hamavaran to the Sky,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1391,no,NA,اقتباس از شاهنامه,Adapted from the Shahnameh.,Appendix D
+OPW_0569,از ژرفای تاریکی,Az Zharfā-ye Tāriki,From the Depths of Darkness,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1399,no,NA,,,Appendix D
+OPW_0570,از آتش تا کین سیاوش,Az Ātash tā Kin-e Siyāvash,From Fire to the Vengeance of Siyavash,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1393,no,NA,اقتباس از شاهنامه,Adapted from the Shahnameh.,Appendix D
+OPW_0571,آینده کهن: روایت شب واپسین,Āyandeh-ye Kohan: Revāyat-e Shab-e Vāpasin,Ancient Future: Tale of the Final Night,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1392,no,NA,,,Appendix D
+OPW_0572,آغاز داستان‌ها,Āghāz-e Dāstān-hā,The Beginning of Stories,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1393,no,NA,اقتباس از شاهنامه,Adapted from the Shahnameh.,Appendix D
+OPW_0573,آخرین سردار,Ākharin Sardār,The Last Commander,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1394,no,NA,اقتباس از شاهنامه,Adapted from the Shahnameh.,Appendix D
+OPW_0574,‏ تصویر یک روح‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬,Tasvir-e Yek Ruh,Portrait of a Spirit,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1395,no,NA,,,Appendix D
+OPW_0575,‏آینده‌ کهن: روایت شب دوم‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬,Āyandeh-ye Kohan: Revāyat-e Shab-e Dovom,Ancient Future: Tale of the Second Night,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1392,no,NA,,,Appendix D
+OPW_0576,مجموعه درستکار‏‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬,Majmu'eh-ye Dorostkār,The Dorostkar Collection,ai_literal_gloss,IA_0006,Arman Arian,آرمان آرین,1390,no,NA,,,Appendix D
+OPW_0577,بلیناس جادوگر,Belinās-e Jādugar,Belinas the Wizard,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1377,yes,3,,,Appendix D
+OPW_0578,اف‍س‍ان‍ه‌ ش‍ی‍ر س‍پ‍ی‍دی‍ال,Afsāneh-ye Shir-e Sepidyāl,Legend of the White-Maned Lion,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1377,yes,3,,,Appendix D
+OPW_0579,مهمانی گرگ‌ها,Mehmāni-ye Gorg-hā,The Wolves' Feast,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1386,no,NA,,,Appendix D
+OPW_0580,س‍ت‍اره‌ای‌ ب‍ه‌ ن‍ام‌ غ‍ول‌,Setāreh-i be Nām-e Ghul,A Star Called Giant,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1377,yes,2,,,Appendix D
+OPW_0581,رق‍ص‌ ش‍ی‍ران‌,Raghs-e Shirān,Dance of the Lions,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1381,yes,3,,,Appendix D
+OPW_0582,ح‍م‍اس‍ه‌ ب‍ی‍داری‌,Hamāseh-ye Bidāri,Epic of Awakening,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1380,yes,3,,,Appendix D
+OPW_0583,س‍رزم‍ی‍ن‌ رازه‍ا,Sarzamin-e Rāzhā,Land of Secrets,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1381,yes,3,,,Appendix D
+OPW_0584,ت‍اس‍ارا اس‍ب‌ ب‍ال‍دار,Tāsārā Asb-e Bāldār,Tasara the Winged Horse,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1372,yes,5,,,Appendix D
+OPW_0585,ق‍ل‍ع‍ه‌ طل‍س‍م‌ ش‍ده‌,Ghal'eh-ye Telesm Shodeh,The Enchanted Castle,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1376,no,NA,,,Appendix D
+OPW_0586,گ‍لاب‍ت‍ون‌، ه‍ف‍ت‌ ک‍چ‍ل‍ون,"Golābetun, Haft Kachalun",Golabetun and the Seven Bald Ones,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1376,no,NA,,,Appendix D
+OPW_0587,شهر گربه‌ها,Shahr-e Gorbeh-hā,City of Cats,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1386,no,NA,,,Appendix D
+OPW_0588,گ‍گ‍وری‌ه‍ا و م‍گ‍وری‌ه‍ا,Gagurihā va Magurihā,The Gaguris and the Maguris,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1380,no,NA,,,Appendix D
+OPW_0589,ن‍ن‍ه‌ان‍س‍ی‌ س‍ت‍اره‌ ب‍ود,Naneh Ansi Setāreh Bud,Granny Ansi Was a Star,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1380,yes,2,,,Appendix D
+OPW_0590,دای‍ن‍اس‍وره‍ا ن‍م‍ی‌ت‍رس‍ن‍د,Dāynāsorhā Nemitarsand,Dinosaurs Are Not Afraid,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1380,yes,2,,,Appendix D
+OPW_0591,آرزوه‍ای‌ آرزو,Ārezuhā-ye Ārezu,Arezu's Wishes,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1380,yes,2,,,Appendix D
+OPW_0592,پ‍ه‍ل‍وان‌پ‍ن‍ب‍ه‌ و ن‍ن‍ه‌پ‍ن‍ب‍ه,Pahlevān-Panbeh va Naneh-Panbeh,Cotton Hero and Granny Cotton,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1380,no,NA,,,Appendix D
+OPW_0593,آرزوی‌ پ‍ی‍ران,Ārezu-ye Pirān,Piran's Wish,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1381,no,NA,,,Appendix D
+OPW_0594,ب‍زب‍زی‌ و درخ‍ت‌ آس‍وری,Bozbozi va Derakht-e Āsuri,Little Goat and the Assyrian Tree,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1382,no,NA,,,Appendix D
+OPW_0595,ب‍ای‍د ب‍ه‌ ف‍ک‍ر ف‍رش‍ت‍ه‌ ب‍ود,Bāyad be Fekr-e Fereshteh Bud,One Must Think of the Angel,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1381,no,NA,,,Appendix D
+OPW_0596,آواز آب‍اد,Āvāz-e Ābād,Abad's Song,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1381,no,NA,,,Appendix D
+OPW_0597,م‍ن‌ رن‍گ‍ه‍ای‌ زی‍ب‍ا را دوس‍ت‌ دارم,Man Ranghā-ye Zibā rā Dust Dāram,I Love Beautiful Colors,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1381,no,NA,,,Appendix D
+OPW_0598,ح‍م‍اس‍ه‌ی‌ س‍ی‍اوش,Hamāseh-ye Siyāvash,The Epic of Siyavash,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1381,no,NA,اقتباس از شاهنامه,Adapted from the Shahnameh.,Appendix D
+OPW_0599,ن‍م‍ک‍ی‌ و ن‍م‍ک‍دون,Namaki va Namakdun,Namaki and the Saltcellar,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1382,no,NA,,,Appendix D
+OPW_0600,س‍ری‌ ک‍ه‌ ب‍ی‌ ک‍لاه‌ م‍ان‍د,Sari ke Bi Kolāh Mānd,The Head That Was Left Without a Hat,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1382,no,NA,,,Appendix D
+OPW_0601,لان‍ه‌ گ‍ن‍ج‍ش‍ک‌ ک‍وچ‍ول‍و,Lāneh-ye Gonjeshk-e Kuchulu,The Little Sparrow's Nest,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1384,yes,5,,,Appendix D
+OPW_0602,ش‍ان‍ه‌ س‍ح‍رآم‍ی‍ز,Shāneh-ye Sehrāmiz,The Magical Comb,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1374,yes,3,,,Appendix D
+OPW_0603,س‍رزم‍ی‍ن‌ چ‍ه‍ار ف‍ص‍ل,Sarzamin-e Chahār Fasl,The Land of Four Seasons,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1369,yes,4,,,Appendix D
+OPW_0604,م‍ل‍وچ‍ک‌ دای‍ره‌زن‌,Maluchak-e Dāyereh-Zan,Maluchak the Tambourine Player,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1379,no,NA,,,Appendix D
+OPW_0605,م‍ل‍وچ‍ک‌ اش‍ی‌ م‍ش‍ی,Maluchak-e Ashi-Mashi,Maluchak Ashi-Mashi,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1378,no,NA,,,Appendix D
+OPW_0606,م‍ل‍وچ‍ک‌ و خ‍واب‌ ش‍ی‍ری‍ن,Maluchak va Khāb-e Shirin,Maluchak and the Sweet Dream,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1378,no,NA,,,Appendix D
+OPW_0607,م‍ل‍وچ‍ک‌ و لان‍ه‌اش,Maluchak va Lāneh-ash,Maluchak and Its Nest,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1379,no,NA,,,Appendix D
+OPW_0608,هزاران هزار,Hezārān Hezār,Thousands upon Thousands,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1386,no,NA,,,Appendix D
+OPW_0609,گم‌گمک و ماهوارک,Gomgomak va Māhvārak,Gomgomak and Little Moon,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1386,no,NA,,,Appendix D
+OPW_0610,ماهواره سیاه,Māhvāreh-ye Siyāh,The Black Satellite,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1386,no,NA,,,Appendix D
+OPW_0611,آخرین پروانه‌ها,Ākharin Parvāneh-hā,The Last Butterflies,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1385,no,NA,,,Appendix D
+OPW_0612,روبان سفید,Rubān-e Sefid,The White Ribbon,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1385,no,NA,,,Appendix D
+OPW_0613,آواز,Āvāz,Song,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1393,no,NA,,,Appendix D
+OPW_0614,دخ‍ت‍ری‌ ک‍ه‌ م‍ت‍ول‍د م‍ی‌ش‍ود,Dokhtari ke Motavalled Mishavad,The Girl Who Is Being Born,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1380,no,NA,,,Appendix D
+OPW_0615,ق‍ص‍ه‌ی‌ اژده‍ا و پ‍ه‍ل‍وان‌ م‍ل‍ک‌,Ghesseh-ye Ezhdehā va Pahlevān-e Malek,The Tale of the Dragon and Hero Malek,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1380,yes,2,,,Appendix D
+OPW_0616,س‍ت‍اره‌ ک‍وچ‍ول‍وی‌ م‍ن,Setāreh-ye Kuchulu-ye Man,My Little Star,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1381,no,NA,,,Appendix D
+OPW_0617,آت‍اس‍ای‌,Ātāsāy,Atasay,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1382,yes,2,,,Appendix D
+OPW_0618,آن‍اه‍ی‍د,Anāhid,Anahid,official_translation,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1384,no,NA,,,Appendix D
+OPW_0619,ج‍ی‍غ‌ ج‍ادوی‍ی,Jigh-e Jādoyi,The Magical Scream,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1386,no,NA,,,Appendix D
+OPW_0620,رزان‍ه‌ و م‍ی‍ش‍ک‌,Razāneh va Mishk,Razaneh and Mishk,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1383,no,NA,,,Appendix D
+OPW_0621,آدم برفی و آدم آهنی,Ādam Barfi va Ādam Āhani,The Snowman and the Iron Man,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1396,no,NA,,,Appendix D
+OPW_0622,آدم برفی و روسری,Ādam Barfi va Rusari,The Snowman and the Headscarf,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1396,no,NA,,,Appendix D
+OPW_0623,آدم برفی و بچه‌ها,Ādam Barfi va Bacheh-hā,The Snowman and the Children,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1396,no,NA,,,Appendix D
+OPW_0624,آدم برفی و توپ,Ādam Barfi va Tup,The Snowman and the Ball,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1396,no,NA,,,Appendix D
+OPW_0625,نیم‌وجبی,Nim-Vajabi,Thumb-Sized One,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1387,yes,3,,,Appendix D
+OPW_0626,فیل‌کوچولو,Fil Kuchulu,Little Elephant,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1393,no,NA,,,Appendix D
+OPW_0627,هیچکسی که کسی نبود,Hichkasi ke Kasi Nabud,Nobody Who Was Nobody,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1393,no,NA,,,Appendix D
+OPW_0628,گرگ‌ها گریه نمی‌کنند,Gorg-hā Geryeh Nemikonand,Wolves Don't Cry,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1389,yes,4,,,Appendix D
+OPW_0629,بهارانه,Bahārāneh,Spring Song,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1397,no,NA,,,Appendix D
+OPW_0630,آدم برفی و گرگ سیاه,Ādam Barfi va Gorg-e Siyāh,The Snowman and the Black Wolf,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1396,no,NA,,,Appendix D
+OPW_0631,خانم جان این‌جوری,Khānom Jān Injuri,"Dear Lady, Like This",ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1399,no,NA,,,Appendix D
+OPW_0632,ماه پیشونی,Māh Pishuni,Moon-Forehead,official_translation,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1392,no,NA,,,Appendix D
+OPW_0633,اژدهای گل آفتابگردان,Ezhdehā-ye Gol-e Āftābgardān,The Sunflower Dragon,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1394,no,NA,,,Appendix D
+OPW_0634,ماه و ستاره,Māh va Setāreh,The Moon and the Star,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1394,no,NA,,,Appendix D
+OPW_0635,اژدها پادشاه چشمه,Ezhdehā Pādshāh-e Cheshmeh,"The Dragon, King of the Spring",ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1397,no,NA,,,Appendix D
+OPW_0636,اژدها گول نمی‌خورد,Ezhdehā Gul Nemikhorad,The Dragon Is Not Fooled,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1397,no,NA,,,Appendix D
+OPW_0637,لبخند اژدها,Labkhand-e Ezhdehā,The Dragon's Smile,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1397,no,NA,,,Appendix D
+OPW_0638,اژدها در عروسی,Ezhdehā dar Arusi,The Dragon at the Wedding,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1397,no,NA,,,Appendix D
+OPW_0639,شهری که گم شد,Shahri ke Gom Shod,The City That Was Lost,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1388,no,NA,,,Appendix D
+OPW_0640,کوچه‌ی موش‌ها,Kucheh-ye Mush-hā,The Alley of Mice,ai_literal_gloss,IA_0022,Mohammadreza Yousefi,محمدرضا یوسفی,1389,yes,3,,,Appendix D
+OPW_0641,مه‌آلود,Meh-Ālud,Misty,ai_literal_gloss,IA_0005,Alista Aghaei,اَلیستا آقایی,1397,no,NA,,,Appendix D
+OPW_0642,دختر آن سوی آینه,Dokhtar-e Ān Suy-e Āyeneh,The Girl Beyond the Mirror,ai_literal_gloss,IA_0005,Alista Aghaei,اَلیستا آقایی,1399,no,NA,,,Appendix D
+OPW_0643,مردمک‌های قرمز,Mardomak-hā-ye Ghermez,The Red Pupils,ai_literal_gloss,IA_0015,Jeyran Mahtabi,جیران ماهتابی,1396,yes,2,,,Appendix D
+OPW_0644,نبرد خدایان,Nabard-e Khodāyān,Battle of the Gods,ai_literal_gloss,IA_0025,Morteza Rezaei,مرتضی رضایی,1396,yes,2,جلد اول این کتاب در سال های ۱۳۹۶-۱۳۹۸ تجدید چاپ شده است. جلد دوم این کتاب در سال ۱۳۹۹ تجدید چاپ شده است. ج.۱.فرستاده اهریمن.- ج.۲ . بامداد تاریک.- ج.۳. مرگ خدایان.- ج.۴. افسانه مار,Volume 1 was reprinted between 2017 and 2019 (1396 to 1398). Volume 2 was reprinted in 2020 (1399). Vol. 1: The Demon’s Messenger. Vol. 2: Dark Dawn. Vol. 3: Death of the Gods. Vol. 4: The Legend of the Serpent.,Appendix D
+OPW_0645,زمین و زمان,Zamin o Zamān,Earth and Time,ai_literal_gloss,IA_0007,Benyamin Maleki,بنیامین ملکی,1396,yes,2,این کتاب در سال ۱۳۹۸ تجدید چاپ شده است.,This book was reprinted in 2019 (1398).,Appendix D
+OPW_0646,طغیان: پوچی شرزه‌ها,Toghyān: Puchi-ye Sharzeh-hā,Rebellion: The Emptiness of the Ferocious Ones,ai_literal_gloss,IA_0007,Benyamin Maleki,بنیامین ملکی,1394,yes,3,,,Appendix D
+OPW_0647,ضمیر,Zamir,Conscience / Inner Self,ai_literal_gloss,IA_0007,Benyamin Maleki,بنیامین ملکی,1399,no,NA,,,Appendix D
+OPW_0648,پنج‌گانه پادشاهی جهان,Panjgāneh-ye Pādshāhi-ye Jahān,The World Kingdom Pentology,ai_literal_gloss,IA_0028,Nima Kohandani,نیما کهندانی,1394,yes,8,جلد اول تا چهارم این کتاب در سال‌های ۱۳۹۵- ۱۳۹۹ تجدید چاپ شده است. ج.۱. خیزش خاک‏.- ج.۲. نفرین بیوا‬.- ج.۳. طوفان مرگ.- ج.۴. رقص آتش,Volumes 1 to 4 were reprinted between 2016 and 2020 (1395 to 1399). Vol. 1: Rise of the Earth. Vol. 2: Widow’s Curse. Vol. 3: Storm of Death. Vol. 4: Dance of Fire.,Appendix D
+OPW_0649,پیشتازان و اربابان مرگ,Pishtāzān va Arbābān-e Marg,The Pioneers and the Lords of Death,ai_literal_gloss,IA_0028,Nima Kohandani,نیما کهندانی,1389,yes,3,ج. ۱. طلوع تاریکی‬‏.- ج.۲. هفت‬.- ج.۳. رستاخیز تاریکی‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬ ‏ج.۲ (چاپ اول: زمستان ۱۳۹۲).‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬ ‏ج.۳ (چاپ اول: ۱۳۹۳).‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬,Vol. 1: Dawn of Darkness. Vol. 2: Seven. Vol. 3: Resurrection of Darkness. Vol. 2 first edition: Winter 2014 (1392). Vol. 3 first edition: 2014/2015 (1393).,Appendix D
+OPW_0650,مخمصه,Makhmaseh,Predicament,ai_literal_gloss,IA_0028,Nima Kohandani,نیما کهندانی,1398,no,NA,,,Appendix D
+OPW_0651,مرزهای درهم شکسته,Marzhā-ye Darham Shekasteh,Shattered Borders,ai_literal_gloss,IA_0028,Nima Kohandani,نیما کهندانی,1394,yes,2,,,Appendix D
+OPW_0652,وسوسه,Vasvaseh,Temptation,ai_literal_gloss,IA_0028,Nima Kohandani,نیما کهندانی,1397,no,NA,,,Appendix D
+OPW_0653,خورشید نفرین شده,Khorshid-e Nefrin Shodeh,The Cursed Sun,ai_literal_gloss,IA_0039,Zahra Afshar Ziba,زهرا افشار زیبا,1397,no,NA,ج.۱. طلوع خورشید.- ج.۲. غروب خورشید.- ج.۳. فریاد خورشید,Vol. 1: Sunrise. Vol. 2: Sunset. Vol. 3: Cry of the Sun.,Appendix D
+OPW_0654,سقوط شوالیه,Soghut-e Shovāliyeh,Fall of the Knight,ai_literal_gloss,IA_0010,Farhang Nazaridoust,فرهنگ نظری دوست,1397,no,NA,,,Appendix D
+OPW_0655,ارتش شش گله,Artesh-e Shesh Galeh,The Army of Six Herds,ai_literal_gloss,IA_0035,Setareh Roshan,ستاره روشن,1396,no,NA,ج.۱. شبدر شش پر.- ج.۲. نبرد دو ساحر,Vol. 1: The Six-Leaved Clover. Vol. 2: The Battle of Two Wizards.,Appendix D
+OPW_0656,پریزاد,Parizād,Fairy-Born,ai_literal_gloss,IA_0003,Ahmadreza Salehi,احمدرضا صالحی,1388,no,NA,,,Appendix D
+OPW_0657,زناهره,Zanāhereh,Zanahereh,ai_literal_gloss,IA_0003,Ahmadreza Salehi,احمدرضا صالحی,1389,no,NA,,,Appendix D
+OPW_0658,میدگارد,Midgārd,Midgard,official_translation,IA_0003,Ahmadreza Salehi,احمدرضا صالحی,1392,no,NA,,,Appendix D
+OPW_0659,رویا‌فروش,Royāforush,Dream Seller,ai_literal_gloss,IA_0031,Saeed Farzpour,سعید فرض‌پور,1398,no,NA,,,Appendix D
+OPW_0660,دامنی پر از ستاره,Dāmani Por az Setāreh,A Skirt Full of Stars,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1377,no,NA,,,Appendix D
+OPW_0661,افسانه‌های روباه,Afsāneh-hā-ye Rubāh,Fox Tales,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1386,yes,3,,,Appendix D
+OPW_0662,خورشید مال کیه؟,Khorshid Māl-e Kiyeh?,Whose Is the Sun?,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1383,no,NA,,,Appendix D
+OPW_0663,بادکنک و اسب آبی,Bādkonak va Asb-e Ābi,The Balloon and the Hippopotamus,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1385,yes,2,,,Appendix D
+OPW_0664,ب‍ر ش‍ان‍ه‌ه‍ای‌ اب‍ر,Bar Shāneh-hā-ye Abr,Upon the Shoulders of Clouds,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1383,no,NA,,,Appendix D
+OPW_0665,افسانه‌هایی از احمق‌ها,Afsāneh-hāyi az Ahmagh-hā,Tales of Fools,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1386,yes,5,,,Appendix D
+OPW_0666,ق‍ص‍ه‌ ح‍س‍ی‍ن‌ ک‍ردش‍ب‍س‍ت‍ری‌,Ghesseh-ye Hossein Kord-e Shabestari,The Tale of Hossein Kord of Shabestar,official_translation,IA_0021,Mohammadreza Shams,محمدرضا شمس,1378,yes,3,,,Appendix D
+OPW_0667,خ‍ان‍ه‌ ک‍رم‌ ک‍وچ‍ول‍و و دو داس‍ت‍ان‌ دی‍گ‍ر: م‍ش‍ک‍ل‌ ب‍زرگ‌ آق‍ا خ‍رگ‍وش‍ه‌ و خ‍ان‍م‌ خ‍رگ‍وش‍ه‌، ج‍ان‍ور ع‍ج‍ی‍ب‌,"Khāneh-ye Kerm-e Kuchulu va Do Dāstān-e Digar: Moshkel-e Bozorg-e Āghā Khargusheh va Khanum Khargusheh, Jānevare Ajib","Little Worm's House and Two Other Stories: Mr. and Mrs. Rabbit's Big Problem, and The Strange Creature",ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1376,yes,2,,,Appendix D
+OPW_0668,ب‍ه‍ار در ن‍ق‍اش‍ی‌ س‍ارا ک‍وچ‍ول‍و (م‍ج‍م‍وع‍ه‌ دو داس‍ت‍ان‌),Bahār dar Naghāshi-ye Sārā Kuchulu,Spring in Little Sara's Painting (A Collection of Two Stories),ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1376,yes,2,,,Appendix D
+OPW_0669,خ‍واب‌ و پ‍س‍رک‌,Khāb va Pesarak,Sleep and the Little Boy,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1374,yes,2,,,Appendix D
+OPW_0670,دیوانه و چاه,Divāneh va Chāh,The Madman and the Well,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1386,no,NA,,,Appendix D
+OPW_0671,افسانه‌های زرنگ‌ها,Afsāneh-hā-ye Zerang-hā,Tales of the Clever Ones,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1391,yes,4,,,Appendix D
+OPW_0672,افسانه‌های تنبل‌ها,Afsāneh-hā-ye Tanbal-hā,Tales of the Lazy Ones,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1386,yes,4,,,Appendix D
+OPW_0673,افسانه‌های جن و پری,Afsāneh-hā-ye Jen va Pari,Tales of Jinns and Fairies,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1386,yes,4,,,Appendix D
+OPW_0674,افسانه‌های نامادری,Afsāneh-hā-ye Nāmādari,Tales of the Stepmother,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1390,yes,2,,,Appendix D
+OPW_0675,ن‍ردب‍ان‌ و م‍اه‌: (م‍ج‍م‍وع‍ه‌ داس‍ت‍ان‌),Nardebān va Māh,The Ladder and the Moon,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1380,no,NA,,,Appendix D
+OPW_0676,دی‍وه‍ای‌ دم‍اغ‌ دراز: ۱۴ اف‍س‍ان‍ه‌ ژاپ‍ن‍ی‌,Divhā-ye Damāgh-Derāz: 14 Afsāneh-ye Japoni,Long-Nosed Demons: 14 Japanese Folktales,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1390,yes,13,,,Appendix D
+OPW_0677,خ‍ال‍ه‌ ل‍ک‌ل‍ک‌,Khāleh Lak-Lak,Aunt Stork,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1382,no,NA,,,Appendix D
+OPW_0678,آرزوه‍ای‌ رن‍گ‍ی‌,Ārezu-hā-ye Rangi,Colorful Wishes,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1383,no,NA,,,Appendix D
+OPW_0679,ک‍ل‍وچ‍ه‌ خ‍ان‍م‌,Kolucheh Khānom,Lady Cookie,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1383,no,NA,,,Appendix D
+OPW_0680,لان‍ه‌,Lāneh,The Nest,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1383,yes,3,,,Appendix D
+OPW_0681,ح‍س‍ن‍ی‌ و دی‍و و ۱۱ [ی‍ازده‌] ق‍ص‍ه‌ دی‍گ‍ر,Hasani va Div va 11 Ghesseh-ye Digar,Hasani and the Demon and 11 Other Stories,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1375,yes,15,,,Appendix D
+OPW_0682,گ‍ردوه‍ای‌ م‍وش‌ ق‍ه‍وه‌ای‌ و دوس‍ت‌ پ‍رن‍ده‌,Gerduhā-ye Mush-e Ghahveh'i va Dust-e Parandeh,The Brown Mouse's Walnuts and the Bird Friend,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1367,yes,3,,,Appendix D
+OPW_0683,عروسی,Arusi,Wedding,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1393,no,NA,,,Appendix D
+OPW_0684,دزدی که پروانه شد,Dozdi ke Parvāneh Shod,The Thief Who Became a Butterfly,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1389,no,NA,,,Appendix D
+OPW_0685,ش‍ی‍ر آب‌ و ب‍ش‍ق‍اب‌ چ‍ی‍ن‍ی‌ گ‍ل‍دار,Shire Ab va Boshghāb-e Chini-ye Goldār,The Water Tap and the Flowered China Plate,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1382,no,NA,,,Appendix D
+OPW_0686,ک‍ی‌ دائ‍م‌ چ‍ه‍چ‍ه‍ه‌ م‍ی‌زن‍د؟,Ki Dā'em Chahchaheh Mizanad?,Who Keeps Singing All the Time?,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1383,no,NA,,,Appendix D
+OPW_0687,ص‍ی‍ادان‌ م‍اه‌,Sayyādān-e Māh,The Moon Hunters,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1383,no,NA,,,Appendix D
+OPW_0688,دوم‍رول‌ دی‍وان‍ه‌,Domrul-e Divāneh,Mad Domrul,official_translation,IA_0021,Mohammadreza Shams,محمدرضا شمس,1383,no,NA,,,Appendix D
+OPW_0689,صد افسانه,Sad Afsāneh,One Hundred Tales,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1390,yes,2,,,Appendix D
+OPW_0690,گرد و قلمبه و ۸ قصه دیگر,Gerd o Gholombeh va 8 Ghesseh-ye Digar,Round and Chubby and 8 Other Stories,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1394,no,NA,,,Appendix D
+OPW_0691,سیب کچل,Sib-e Kachal,The Bald Apple,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1394,yes,3,,,Appendix D
+OPW_0692,سوسک دخترون و ۸ قصه دیگر,Susk Dokhtarun va 8 Ghesseh-ye Digar,Lady Beetle and 8 Other Stories,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1394,no,NA,,,Appendix D
+OPW_0693,شش تا پا گنده و ۶ قصه دیگر,Shesh Tā Pā Gondeh va 6 Ghesseh-ye Digar,Six Big Feet and 6 Other Stories,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1394,no,NA,,,Appendix D
+OPW_0694,پیراهن پولکی و ۷ قصه دیگر,Pirāhan-e Pulaki va 7 Ghesseh-ye Digar,The Sequined Dress and 7 Other Stories,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1394,yes,3,,,Appendix D
+OPW_0695,چرتان و پرتان و ۸ قصه دیگر,Chertān va Pertān va 8 Ghesseh-ye Digar,Chertan and Pertan and 8 Other Stories,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1394,no,NA,,,Appendix D
+OPW_0696,اسکلت بخشنده,Eskelet-e Bakhshandeh,The Generous Skeleton,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1394,yes,4,,,Appendix D
+OPW_0697,هیولای کوه به دوش,Hayulā-ye Kuh be Dush,The Mountain-Carrying Monster,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1395,yes,2,,,Appendix D
+OPW_0698,رقص جن‌ها,Raghs-e Jen-hā,Dance of the Jinns,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1395,yes,2,,,Appendix D
+OPW_0699,دختر ماه پیشونی,Dokhtar-e Māh Pishuni,Moon-Forehead Girl,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1395,yes,3,,,Appendix D
+OPW_0700,دماغ آدم برفی,Damāgh-e Ādam Barfi,The Snowman's Nose,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1395,no,NA,,,Appendix D
+OPW_0701,نیمکت پیر,Nimkat-e Pir,The Old Bench,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1396,yes,2,,,Appendix D
+OPW_0702,سبیل عمو,Sebil-e Amu,Uncle's Mustache,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1393,no,NA,,,Appendix D
+OPW_0703,اتوبوس و دریا,Otobus va Daryā,The Bus and the Sea,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1392,no,NA,,,Appendix D
+OPW_0704,راز و نیاز و گل پیاز,Rāz va Niyāz va Gol-e Piyāz,"Secrets, Prayers, and the Onion Flower",ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1391,no,NA,,,Appendix D
+OPW_0705,پیازی که گرمش بود,Piyāzi ke Garmesh Bud,The Onion That Felt Warm,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1393,no,NA,,,Appendix D
+OPW_0706,سیب سبز,Sib-e Sabz,The Green Apple,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1392,no,NA,,,Appendix D
+OPW_0707,پ‍ه‍ل‍وان‌ پ‍ن‍ب‍ه‌: ۱۱ اف‍س‍ان‍ه‌ ای‍ران‍ی‌,Pahlevān Panbeh: 11 Afsāneh-ye Irāni,Cotton Hero: 11 Iranian Folktales,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1377,yes,13,,,Appendix D
+OPW_0708,ق‍ص‍ه‌ م‍اه‌,Ghesseh-ye Māh,The Tale of the Moon,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1377,yes,4,,,Appendix D
+OPW_0709,افسانه‌های این‌ور آب,Afsāneh-hā-ye Invar-e Āb,Tales from This Side of the Water,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1394,yes,2,,,Appendix D
+OPW_0710,افسانه‌های آن‌ور آب,Afsāneh-hā-ye Ānvar-e Āb,Tales from the Other Side of the Water,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1394,no,NA,,,Appendix D
+OPW_0711,جورابی که دنبال پا می‌گشت,Jurābi ke Donbāl-e Pā Migasht,The Sock That Was Looking for a Foot,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1394,no,NA,,,Appendix D
+OPW_0712,قصه‌های سر و ته,Ghesseh-hā-ye Sar va Tah,Upside-Down Tales,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1392,yes,2,,,Appendix D
+OPW_0713,ننه گلاب,Naneh Golāb,Granny Golab,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1387,yes,2,,,Appendix D
+OPW_0714,هشت پا,Hashtpā,Octopus,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1394,yes,2,,,Appendix D
+OPW_0715,فاصله‌ای که پیر شد,Fāseleh-i ke Pir Shod,The Distance That Grew Old,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1393,no,NA,,,Appendix D
+OPW_0716,تو مادر منی؟,To Mādar-e Mani?,Are You My Mother?,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1393,yes,3,,,Appendix D
+OPW_0717,خانه‌ی دیوانه,Khāneh-ye Divāneh,The Mad House,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1397,no,NA,,,Appendix D
+OPW_0718,در عروسی چه می‌خورند؟,Dar Arusi Che Mikhorand?,What Do They Eat at a Wedding?,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1393,no,NA,,,Appendix D
+OPW_0719,ل بازیگوش,L-ye Bāzigush,The Mischievous Letter L,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1394,no,NA,,,Appendix D
+OPW_0720,روب‍اه‌ و خ‍روس‌,Rubāh va Khorus,The Fox and the Rooster,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1392,yes,4,,,Appendix D
+OPW_0721,اسکلت خون‌آشام,Eskelet-e Khunāshām,The Vampire Skeleton,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1398,yes,8,,,Appendix D
+OPW_0722,چهل قصه: قصه‌های نوجوان,Chehel Ghesseh: Ghesseh-hā-ye Nojavān,Forty Tales: Stories for Young Readers,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1399,no,NA,,,Appendix D
+OPW_0723,نمکی: قصه‌هایی از ادبیات شفاهی ایران,Namaki: Ghesseh-hāyi az Adabiyāt-e Shafāhi-ye Irān,Namaki: Tales from Iranian Oral Literature,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1399,no,NA,,,Appendix D
+OPW_0724,ننه ماهی,Naneh Māhi,Granny Fish,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1399,no,NA,,,Appendix D
+OPW_0725,خاله سوسکه,Khāleh Suskeh,Aunt Cockroach,official_translation,IA_0021,Mohammadreza Shams,محمدرضا شمس,1399,no,NA,,,Appendix D
+OPW_0726,م‍داد س‍ی‍اه‌ و م‍داد ق‍رم‍ز,Medād-e Siyāh va Medād-e Ghermez,The Black Pencil and the Red Pencil,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1383,no,NA,,,Appendix D
+OPW_0727,سرزمین پریان,Sarzamin-e Pariān,Fairyland,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1397,no,NA,,,Appendix D
+OPW_0728,سی عروس و سی داماد,Si Arus va Si Dāmād,Thirty Brides and Thirty Grooms,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1397,no,NA,,,Appendix D
+OPW_0729,الاغک مهربان,Olāghak-e Mehrabān,The Kind Little Donkey,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1398,no,NA,,,Appendix D
+OPW_0730,کچل تنبل و دیو پخمه,Kachal-e Tanbal va Div-e Pakhmeh,The Lazy Bald Man and the Silly Demon,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1398,no,NA,,,Appendix D
+OPW_0731,درختی که کلاغ نداشت,Derakhti ke Kalāgh Nadāsht,The Tree That Had No Crow,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1398,no,NA,,,Appendix D
+OPW_0732,کچل مم سیاه,Kachal-e Mam Siyāh,Bald Mam Siyah,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1397,no,NA,,,Appendix D
+OPW_0733,چشمه‌ی جادو,Cheshmeh-ye Jādu,The Magic Spring,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1397,no,NA,,,Appendix D
+OPW_0734,غول بیابونی,Ghul Biābuni,The Desert Giant,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1397,no,NA,,,Appendix D
+OPW_0735,دختر گل خندان,Dokhtar-e Gol-e Khandān,The Girl of the Smiling Flower,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1395,yes,3,,,Appendix D
+OPW_0736,دختر نارنج و ترنج,Dokhtar-e Nārenj o Toranj,The Girl of Orange and Citron,official_translation,IA_0021,Mohammadreza Shams,محمدرضا شمس,1395,yes,3,,,Appendix D
+OPW_0737,گوساله‌ی لج باز,Gusāleh-ye Lajbāz,The Stubborn Calf,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1394,no,NA,,,Appendix D
+OPW_0738,خانه‌ی ارواح,Khāneh-ye Arvāh,The House of Spirits,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1397,no,NA,,,Appendix D
+OPW_0739,ق‍ص‍ه‌ پ‍ل‍ی‌ ک‍ه‌ ب‍ود و دی‍گ‍ر ن‍ی‍س‍ت‌,Ghesseh-ye Poli ke Bud va Digar Nist,The Tale of the Bridge That Was and Is No More,ai_literal_gloss,IA_0021,Mohammadreza Shams,محمدرضا شمس,1380,yes,3,,,Appendix D
