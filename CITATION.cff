@@ -1,25 +1,15 @@
 cff-version: 1.2.0
-
 message: "If you use this dataset, please cite it using the information below."
-
 title: Iranian Fantasy Literature Metadata Dataset (IFMD)
-
 type: dataset
-
 authors:
   - family-names: Riyahi
-  - given-names: Mahsa
-
-orcid: https://orcid.org/0009-0006-6932-331X
-
+    given-names: Mahsa
+    orcid: https://orcid.org/0009-0006-6932-331X
 version: 1.0
-
 date-released: 2026-07-08
-
 license: CC-BY-4.0
-
-repository-code: https://github.com/mahsariyahi/iranian-fantasy-literature-metadata-dataset
-
+url: https://github.com/mahsariyahi/iranian-fantasy-literature-metadata-dataset
 keywords:
   - translation studies
   - Persian literature
@@ -32,6 +22,5 @@ keywords:
   - publishing history
   - literary history
   - translation
-
 abstract: >
 The Iranian Fantasy Literature Metadata Dataset (IFMD) is an open-access bilingual bibliographic metadata dataset documenting Persian  translations of foreign fantasy literature and original works by Iranian authors published in Iran between 1270 and 1399 Solar Hijri (1891–2021 CE). Developed as part of the MA thesis "The Role of Translation in the Formation of Modern Fantasy Literature in Iran," the dataset supports research in Translation Studies, Persian Literary Studies, Digital Humanities, Bibliometrics, Publishing History, and related fields
