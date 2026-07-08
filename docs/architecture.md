@@ -218,26 +218,26 @@ The overall data flow is illustrated below.
 ```text
                 MA Thesis Appendices
                           │
-                         ▼
+                          ▼
                Data Cleaning & Review
                           │
-                         ▼
+                          ▼
             Metadata Standardization
                           │
-                         ▼
+                          ▼
               Authority Table Creation
                           │
-                         ▼
-             Persistent Identifier Assignment
+                          ▼
+          Persistent Identifier Assignment
                           │
-                         ▼
+                          ▼
            Relational Dataset Construction
                           │
-                         ▼
-         UTF-8 Encoded CSV Dataset Export
+                          ▼
+           UTF-8 Encoded CSV Dataset Export
                           │
-                         ▼
-     GitHub Repository & Zenodo Publication
+                          ▼
+       GitHub Repository & Zenodo Publication
 ```
 
 This workflow summarizes the principal stages involved in preparing the published dataset. Detailed descriptions of the data collection, processing, and quality assurance procedures are provided in the accompanying `methodology.md` document.
