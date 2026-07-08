@@ -10,6 +10,7 @@ version: 1.0
 date-released: 2026-07-08
 license: CC-BY-4.0
 url: "https://github.com/mahsariyahi/iranian-fantasy-literature-metadata-dataset"
+doi: "10.5281/zenodo.21267145"
 keywords:
   - translation studies
   - Persian literature
