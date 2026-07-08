@@ -1,4 +1,8 @@
 # Iranian Fantasy Literature Metadata Dataset (IFMD)
+[![Version](https://img.shields.io/github/v/release/mahsariyahi/iranian-fantasy-literature-metadata-dataset?label=version)](https://github.com/mahsariyahi/iranian-fantasy-literature-metadata-dataset/releases)
+[![DOI](https://zenodo.org/badge/1293909235.svg)](https://doi.org/10.5281/zenodo.21267144)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 The Iranian Fantasy Literature Metadata Dataset (IFMD) is an open-access bilingual bibliographic metadata dataset documenting Persian translations of fantasy literature and original fantasy works by Iranian authors published in Iran between 1270 and 1399 Solar Hijri (1891–2021 CE). Developed as part of the MA thesis *The Role of Translation in the Formation of Modern Fantasy Literature in Iran*, the dataset provides structured bibliographic metadata for the systematic study of fantasy publishing and translation in Iran. It is intended to support reproducible and reusable research in Translation Studies, literary history, bibliography, and the digital humanities. The dataset contains bibliographic metadata only and does not include copyrighted literary texts.
 
 ## Research Background
