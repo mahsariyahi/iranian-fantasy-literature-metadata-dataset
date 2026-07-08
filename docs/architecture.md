@@ -137,26 +137,25 @@ These authority tables are connected to the work-level and master datasets throu
 
 The overall relationships among the datasets are illustrated below.
 ```text
-                    ifmd_master.csv
-                     ───────────────
-                      work_id
-                         │
-          ┌──────────────┴──────────────┐
-           │                              │
-          ▼                             ▼
-
-translated_works.csv original_works_by_iranian_authors.csv
-│ │
-│ │
-author_id author_id
-│ │
-▼ ▼
-foreign_authors.csv iranian_authors.csv
-│
-│
-translator_id
-│
-▼
+                        ifmd_master.csv
+                         ───────────────
+                          work_id
+                              │
+          ┌───────────────────┴───────────────────┐
+          │                                       │
+          ▼                                       ▼
+  translated_works.csv           original_works_by_iranian_authors.csv
+          │                                       │
+          │                                       │
+      author_id                                author_id
+          │                                       │
+          ▼                                       ▼
+  foreign_authors.csv                   iranian_authors.csv
+          │
+          │
+    translator_id
+          │
+          ▼
 Iranian_translators.csv
 ```
 
