@@ -72,7 +72,8 @@ Additional bibliographic catalogues and manuscript repositories were consulted t
 - National Library manuscript catalogue.
 - Library, Museum and Documentation Center of the Islamic Consultative Assembly.
 - Malek National Library and Museum Institution.
-  These resources supported bibliographic verification during data collection. Although manuscript catalogues were consulted to identify and verify early fantasy works during the data collection process, unpublished manuscripts are not included in the released dataset.
+
+These resources supported bibliographic verification during data collection. Although manuscript catalogues were consulted to identify and verify early fantasy works during the data collection process, unpublished manuscripts are not included in the released dataset.
 
 ## Data Collection Workflow
 
