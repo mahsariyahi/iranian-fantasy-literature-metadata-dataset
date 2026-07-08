@@ -18,7 +18,7 @@ This codebook should be read together with the project `README` and methodology 
 - **File format:** CSV
 - **Character encoding:** UTF-8
 - **License:** CC BY 4.0
-- **DOI:** To be assigned upon Zenodo publication.
+- **DOI:** 10.5281/zenodo.21267145
 
 ---
 
