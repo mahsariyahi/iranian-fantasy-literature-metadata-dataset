@@ -83,7 +83,7 @@ The IFMD may support research in areas including:
 ## Citation
 If you use this dataset in research, teaching, or derivative works, please cite the dataset using the citation information provided in `CITATION.cff`.
 
-A DOI will be added after the first archived release is published through Zenodo.
+DOI: 10.5281/zenodo.21267145
 
 ## License
 This dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to share and adapt the metadata provided that appropriate attribution is given. See the `LICENSE` file for the full license text. 
