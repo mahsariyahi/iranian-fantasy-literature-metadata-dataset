@@ -37,9 +37,9 @@ iranian-fantasy-literature-metadata-dataset/
 |── CODEBOOK.md
 |
 |── data/
-|       |── raw/
-|       |     └── original_dataset.docx
-|       |
+|      |── raw/
+|      |     └── original_dataset.docx
+|      |
 |      └── processed/
 |            ├── foreign_authors.csv
 |            ├── ifmd_master.csv
@@ -49,8 +49,8 @@ iranian-fantasy-literature-metadata-dataset/
 |            └── translated_works.csv
 |
 |── docs/
-|      |── methodology.md
-|      |── architecture.md
+|     |── methodology.md
+|     |── architecture.md
 |     └── limitations.md
 |
 |── visualizations/
