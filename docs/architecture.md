@@ -136,7 +136,7 @@ Information relating to individuals is managed separately through three authorit
 These authority tables are connected to the work-level and master datasets through the `author_id` and `translator_id` fields. Because standardized author and translator records are stored only once, multiple publications can reference the same individual without duplicating metadata. This normalization improves consistency across the dataset and simplifies future corrections or updates.
 
 The overall relationships among the datasets are illustrated below.
-
+```text
                     ifmd_master.csv
                      ───────────────
                       work_id
@@ -158,6 +158,7 @@ translator_id
 │
 ▼
 Iranian_translators.csv
+```
 
 This relational architecture enables users to analyze the complete corpus through the master dataset while also supporting more specialized analyses of translated works, original works by Iranian authors, authorship, and translation networks through the linked work-level and authority tables.
 
