@@ -145,7 +145,9 @@ Iranian_translators.csv
 ```
 
 This relational architecture enables users to analyze the complete corpus through the master dataset while also supporting more specialized analyses of translated works, original works by Iranian authors, authorship, and translation networks through the linked work-level and authority tables.
+
 ---
+
 ## Controlled Denormalization
 
 Although IFMD follows a relational organization, selected descriptive metadata, including standardized author and translator names, are intentionally retained in work-level datasets alongside their persistent identifiers. This controlled denormalization improves readability and usability for researchers working directly with CSV files in spreadsheet software, statistical environments, and programming languages while preserving the identifier-based relationships between related entities.
