@@ -22,43 +22,44 @@ This codebook should be read together with the project `README` and methodology 
 
 ---
 
+---
+
 # Dataset Files
 
 The repository contains six CSV datasets:
 
 ## ifmd_master.csv
-
 Master bilingual bibliographic metadata dataset containing records for all fantasy literature published in Iran (1270–1399 Solar Hijri / 1891–2021 CE).
 
 ---
 
-## translated_works.csv
+## Relational Organization
+The IFMD is organized as a relational bibliographic metadata dataset. Relationships between works, authors, and translators are established through persistent identifiers (work_id, author_id, and translator_id) that link records across the repository. Additional details regarding the dataset architecture are provided in architecture.md.
 
+---
+
+## translated_works.csv
 Metadata for translated fantasy works only.
 
 ---
 
 ## original_works_by_iranian_authors.csv
-
 Metadata for original fantasy works by Iranian authors.
 
 ---
 
 ## iranian_authors.csv
-
-Authority table containing standardized records for Iranian authors.
+Authority table containing standardized identifier records and canonical name forms for Iranian authors.
 
 ---
 
 ## foreign_authors.csv
-
-Authority table containing standardized records for foreign authors.
+Authority table containing standardized identifier records and canonical name forms for foreign authors.
 
 ---
 
 ## iranian_translators.csv
-
-Authority table containing standardized records for Iranian translators.
+Authority table containing standardized identifier records and canonical name forms for Iranian translators.
 
 ---
 
@@ -73,11 +74,9 @@ Unique identifier assigned to each record.
 Identifier
 
 **Used in**
-
 - All dataset files
 
 **Allowed values**
-
 ```
 IFMD_####
 TRW_####
@@ -98,11 +97,9 @@ Indicates whether a record represents an original work by an Iranian author or a
 Categorical
 
 **Used in**
-
 - ifmd_master.csv
 
 **Allowed values**
-
 ```
 original
 translation
@@ -119,11 +116,9 @@ Links each record in the master dataset to its corresponding record in either th
 Identifier
 
 **Used in**
-
 - ifmd_master.csv
 
 **Allowed values**
-
 ```
 TRW_####
 OPW_####
@@ -140,7 +135,6 @@ Original title in the source language.
 Text
 
 **Used in**
-
 - ifmd_master.csv
 - translated_works.csv
 - original_works_by_iranian_authors.csv
@@ -156,7 +150,6 @@ Persian title as published in Iran.
 Text
 
 **Used in**
-
 - ifmd_master.csv
 - translated_works.csv
 
@@ -171,7 +164,6 @@ Romanized form of the Persian title.
 Text
 
 **Used in**
-
 - ifmd_master.csv
 - translated_works.csv
 - original_works_by_iranian_authors.csv
@@ -181,13 +173,12 @@ Text
 ## title_gloss_en
 
 **Description**
-English title provided to improve accessibility for non-Persian-speaking users.
+English title provided to improve accessibility for non-Persian-speaking users. Where available, official published English titles are recorded; otherwise, AI-assisted literal English glosses are provided.
 
 **Type**
 Text
 
 **Used in**
-
 - ifmd_master.csv
 - translated_works.csv
 - original_works_by_iranian_authors.csv
@@ -203,13 +194,11 @@ Indicates whether the English title is an official published translation or an A
 Categorical
 
 **Used in**
-
 - ifmd_master.csv
 - translated_works.csv
 - original_works_by_iranian_authors.csv
 
 **Allowed values**
-
 ```
 official_translation
 ai_literal_gloss
@@ -226,13 +215,11 @@ Unique identifier linking the work to the appropriate Iranian or foreign author 
 Identifier
 
 **Used in**
-
 - ifmd_master.csv
 - translated_works.csv
 - original_works_by_iranian_authors.csv
 
 **Allowed values**
-
 ```
 IA_####
 FA_####
@@ -243,13 +230,12 @@ FA_####
 ## author_en
 
 **Description**
-Standardized English representation of the author's name.
+Canonical English representation of the author's name corresponding to author_id.
 
 **Type**
 Text
 
 **Used in**
-
 - ifmd_master.csv
 - translated_works.csv
 - original_works_by_iranian_authors.csv
@@ -259,13 +245,12 @@ Text
 ## author_fa
 
 **Description**
-Standardized Persian representation of the author's name.
+Canonical Persian representation of the author's name corresponding to author_id.
 
 **Type**
 Text
 
 **Used in**
-
 - ifmd_master.csv
 - translated_works.csv
 - original_works_by_iranian_authors.csv
@@ -283,12 +268,10 @@ Not applicable to original works by Iranian authors.
 Identifier
 
 **Used in**
-
 - ifmd_master.csv
 - translated_works.csv
 
 **Allowed values**
-
 ```
 TR_####
 NA
@@ -299,13 +282,12 @@ NA
 ## translator_en
 
 **Description**
-Standardized English representation of the translator's name.
+Canonical English representation of the translator's name corresponding to translator_id.
 
 **Type**
 Text
 
 **Used in**
-
 - ifmd_master.csv
 - translated_works.csv
 
@@ -314,13 +296,12 @@ Text
 ## translator_fa
 
 **Description**
-Standardized Persian representation of the translator's name.
+Canonical Persian representation of the translator's name corresponding to translator_id.
 
 **Type**
 Text
 
 **Used in**
-
 - ifmd_master.csv
 - translated_works.csv
 
@@ -335,12 +316,10 @@ Original publication year of the source work (Gregorian calendar).
 Integer
 
 **Used in**
-
 - ifmd_master.csv
 - translated_works.csv
 
 **Allowed values**
-
 ```
 Four-digit Gregorian year
 NA
@@ -357,13 +336,11 @@ Publication year in Iran (Solar Hijri calendar).
 Integer
 
 **Used in**
-
 - ifmd_master.csv
 - translated_works.csv
 - original_works_by_iranian_authors.csv
 
 **Allowed values**
-
 ```
 Four-digit Solar Hijri year
 ```
@@ -379,13 +356,11 @@ Indicates whether one or more reprints were identified.
 Categorical
 
 **Used in**
-
 - ifmd_master.csv
 - translated_works.csv
 - original_works_by_iranian_authors.csv
 
 **Allowed values**
-
 ```
 yes
 no
@@ -403,13 +378,11 @@ Highest documented edition or reprint number.
 Text
 
 **Used in**
-
 - ifmd_master.csv
 - translated_works.csv
 - original_works_by_iranian_authors.csv
 
 **Allowed values**
-
 ```
 Positive integer (e.g., 1, 2, 3, ...)
 multiple
@@ -427,8 +400,8 @@ Supplementary notes recorded in Persian.
 Text
 
 **Used in**
-
 - All dataset files
+
 
 ---
 
@@ -441,7 +414,6 @@ English translation of notes provided for accessibility.
 Text
 
 **Used in**
-
 - All dataset files
 
 ---
@@ -455,11 +427,9 @@ Original appendix within the MA thesis from which the metadata was extracted.
 Text
 
 **Used in**
-
 - All dataset files
 
 **Example values**
-
 ```
 Appendix A
 Appendix B
@@ -476,7 +446,6 @@ Standardized Persian representation of the Iranian author's name.
 Text
 
 **Used in**
-
 - iranian_authors.csv
 
 ---
@@ -490,7 +459,6 @@ Standardized English representation of the Iranian author's name.
 Text
 
 **Used in**
-
 - iranian_authors.csv
 
 ---
@@ -504,7 +472,6 @@ Standardized Persian representation of the Iranian translator’s name.
 Text
 
 **Used in**
-
 - iranian_translators.csv
 
 ---
@@ -518,7 +485,6 @@ Standardized English representation of the Iranian translator’s name.
 Text
 
 **Used in**
-
 - iranian_translators.csv
 
 ---
@@ -532,7 +498,6 @@ Standardized English representation of the non-Iranian author’s name.
 Text
 
 **Used in**
-
 - foreign_authors.csv
 
 ---
@@ -546,7 +511,6 @@ Standardized Persian representation of the non-Iranian author’s name.
 Text
 
 **Used in**
-
 - foreign_authors.csv
 
 ---
@@ -555,73 +519,69 @@ Text
 
 ## work_type
 
-| Value       | Meaning                            |
-| ----------- | ---------------------------------- |
-| original    | Original work by an Iranian author |
-| translation | Translated work                    |
+| Value | Meaning |
+|--------|---------|
+| original | Original work by an Iranian author |
+| translation | Translated work |
 
 ---
 
 ## title_gloss_type
 
-| Value                | Meaning                           |
-| -------------------- | --------------------------------- |
-| official_translation | Published English title           |
-| ai_literal_gloss     | AI-assisted literal English gloss |
+| Value | Meaning |
+|--------|---------|
+| official_translation | Published English title |
+| ai_literal_gloss | AI-assisted literal English gloss |
 
 ---
 
 ## reprint_status
 
-| Value | Meaning                         |
-| ----- | ------------------------------- |
-| yes   | One or more reprints identified |
-| no    | No reprints identified          |
-| NA    | Information unavailable         |
+| Value | Meaning |
+|--------|---------|
+| yes | One or more reprints identified |
+| no | No reprints identified |
+| NA | Information unavailable |
 
 ---
 
 ## reprint_number
 
-| Value    | Meaning                                        |
-| -------- | ---------------------------------------------- |
-| 1,2,3... | Known number of editions/reprints              |
+| Value | Meaning |
+|--------|---------|
+| 1,2,3... | Known number of editions/reprints |
 | multiple | Multiple reprints recorded without exact count |
-| NA       | Unknown                                        |
+| NA | Unknown |
 
 ---
 
 # Identifier Prefixes
 
-| Prefix | Description           |
-| ------ | --------------------- |
-| IFMD   | Master dataset record |
-| TRW    | Translated work       |
-| OPW    | Original Persian work |
-| FA     | Foreign author        |
-| IA     | Iranian author        |
-| TR     | Iranian translator    |
+| Prefix | Description |
+|---------|-------------|
+| IFMD | Master dataset record |
+| TRW | Translated work |
+| OPW | Original Persian work |
+| FA | Foreign author |
+| IA | Iranian author |
+| TR | Iranian translator |
 
 ---
 
 # Data Conventions
 
 ## Romanization
-
-Persian titles and personal names were romanized using AI-assisted transliteration followed by manual review for consistency. The romanized forms are intended to improve discoverability and accessibility for non-Persian-speaking users and do not follow a formal transliteration standard.
+Persian titles and personal names are represented in Latin script using AI-assisted transliteration followed by manual review for consistency. The resulting forms are intended to improve discoverability and accessibility rather than to conform to a specific formal romanization standard.
 
 ---
 
 ## English Title Glosses
-
 English title glosses are provided solely to improve accessibility for non-Persian-speaking users. Where an official English title exists, it is used. Otherwise, a literal English gloss generated using AI assistance and reviewed by the dataset author is provided. These glosses are intended for identification only and do not represent published translations.
 
 ---
 
 ## Missing Values
-
 Missing, unavailable, or not applicable values are represented as:
-
 ```
 NA
 ```
@@ -629,35 +589,32 @@ NA
 ---
 
 ## Name Standardization
-
-Author and translator names were standardized across all datasets to ensure consistency.
+Author and translator names were standardized across the repository. Persistent identifiers (author_id, translator_id) serve as the authoritative references linking records across datasets, while standardized human-readable names are included in selected work-level datasets to improve usability.
 
 ---
 
 ## Calendar System
-
 Original publication years use the Gregorian calendar.
 
 Iranian publication years use the Solar Hijri (Persian) calendar.
 
 ## Repository Documentation
-
 The IFMD repository includes the following supporting documentation:
 
-| Document        | Description                                                                                                |
-| --------------- | ---------------------------------------------------------------------------------------------------------- |
-| README.md       | Project overview, repository structure, and usage instructions.                                            |
-| CITATION.cff    | Citation metadata for GitHub, Zenodo, and reference managers.                                              |
-| LICENSE         | Creative Commons Attribution 4.0 International (CC BY 4.0) license.                                        |
-| methodology.md  | Data collection, processing, and quality assurance methodology.                                            |
-| architecture.md | Dataset architecture, file relationships, and design principles.                                           |
-| limitations.md  | Scope, limitations, and known constraints of the dataset.                                                  |
-| CODEBOOK.md     | Reference documentation for dataset variables, identifiers, data conventions, and controlled vocabularies. |
+| Document | Description |
+|----------|-------------|
+| README.md | Project overview, repository structure, and usage instructions. |
+| CITATION.cff | Citation metadata for GitHub, Zenodo, and reference managers. |
+| LICENSE | Creative Commons Attribution 4.0 International (CC BY 4.0) license. |
+| methodology.md | Data collection, processing, and quality assurance methodology. |
+| architecture.md | Dataset architecture, file relationships, and design principles. |
+| limitations.md | Scope, limitations, and known constraints of the dataset. |
+| CODEBOOK.md | Reference documentation for dataset variables, identifiers, data conventions, and controlled vocabularies. |
 
 ---
 
 # Notes
-
 The IFMD contains bibliographic metadata only. It does not include copyrighted literary texts, page images, or full-text content.
+The dataset is intended to support bibliographic analysis, computational research, metadata reuse, and scholarship in Translation Studies, Digital Humanities, Bibliometrics, Publishing History, and Persian Literary Studies.
 
 The dataset is intended for research in Translation Studies, Digital Humanities, Bibliometrics, Publishing History, and Persian Literary Studies.
